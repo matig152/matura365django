@@ -1,0 +1,103 @@
+@font-face{
+	font-family: bahnschrift;
+    src: url("fonts/BAHNSCHRIFT.eot");
+    src: url("fonts/BAHNSCHRIFT.TTF") format('truetype');
+    font-stretch: condensed;
+}
+
+.nagl{
+    background-color: #000cbc;
+    color: white;
+    padding: 0 5px;
+    font-weight: 400;
+}
+
+
+h4{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+.test{
+    width: 1100px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 1px 1px 10px grey;
+    font-size: 26px;
+    border-radius: 10px;
+}
+.meta{
+    font-weight: 900;
+    color: #000cbc;
+    margin: 0;
+    text-align: right;
+    border-bottom: 2px solid #000cbc;
+    font-size: 22px;
+}
+.tresc{
+    margin-top:10px;
+    font-size: 30px;
+}
+
+#odpowiedz{
+    margin-top: 35px;
+    opacity: 0;
+    display: none;
+    transition: all .4s;
+}
+
+
+
+.grid-przyciski{
+    width: 1100px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+button{
+    border-radius: 10px;
+    font-family: bahnschrift;
+    color: white;
+    font-size: 30px;
+    background-color: #000cbc;
+    border: 1px solid #000cbc;
+    height: 55px;
+    width: 100%;
+    transition: all .2s;
+    box-shadow: 2px 2px 2px grey;
+}
+button:hover{
+    background-color: #8cfffb;
+    color: black;
+}
+
+
+/*#region LAPTOP*/
+@media screen and (max-width: 1366px){
+    .test{width: 900px;margin-top: 80px;padding: 1px 20px;}
+    .test h4{font-size: 24px;margin-top: 20px;}
+    .test p{font-size: 24px;}
+    .odpowiedz h4{font-size: 28px;margin-top: 20px;}
+    .odpowiedz p{font-size: 24px;}
+    .meta{font-size: 20px;}
+    .grid-przyciski{width: 900px;}
+}
+/*#endregion*/
+
+
+/*#region MOBILE VERT*/
+@media (max-width: 992px){
+    .test{width: 100%;margin-top: 50px;box-shadow: none;}
+    .grid-przyciski{width: 90%;flex-direction: column-reverse;}
+    .test h4{font-size: 20px;margin-top: 20px;}
+    .test p{font-size: 18px;}
+    .odpowiedz h4{font-size: 20px;margin-top: 18px;}
+    .odpowiedz p{font-size: 18px;}
+    .meta{font-size: 14px;}
+    button{font-size: 20px; height: 50px}
+    #przyciskpdf{display: none;}
+}
+/*#endregion*/

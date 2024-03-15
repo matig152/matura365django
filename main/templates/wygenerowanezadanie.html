@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Matura365 - losowanie zadań{% endblock %}
+{% block meta %}<link rel="stylesheet" href="{% static '/css/wygenerowany.css' %}"><script type="text/javascript" id="MathJax-script" async
+src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>{% endblock %}
+{% block content %}
+<script>
+
+    async function pokazOdpowiedz(){
+    odpowiedz = document.getElementById("odpowiedz")
+    przyciskodpowiedz = document.getElementById("przyciskodpowiedz")
+    if(odpowiedz.style.transform == "scaleY(0)"){
+        odpowiedz.style.transform = "scaleY(1.2)"
+        odpowiedz.style.opacity = 1
+        przyciskodpowiedz.innerHTML = "UKRYJ ODPOWIEDŹ"
+    }
+    else{
+        odpowiedz.style.transform = "scaleY(0)"
+        odpowiedz.style.opacity = 0
+        przyciskodpowiedz.innerHTML = "POKAŻ ODPOWIEDŹ"
+    }
+}
+</script>
+
+
+
+<div class="test">
+    {% autoescape off %}
+    <h4 class="meta">{{meta}}</h4>
+    <p class="tresc">{{zadanie.tresc}}</p>
+    {% endautoescape %}
+</div>
+
+<div class="grid-przyciski">
+    <button id="przyciskodpowiedz" onclick="pokazOdpowiedz()">POKAŻ ODPOWIEDŹ</button>
+</div>
+<div id="odpowiedz" class="test" style="margin-top:30px;transform: scaleY(0);transition: all .2s ease;opacity:0">
+    {% autoescape off %}{{zadanie.odpowiedz}}{% endautoescape %}
+</div>
+
+
+
+
+{% endblock %}

@@ -1,0 +1,46 @@
+
+    {% csrf_token %}
+    <div class="formfields">
+        <div class="field">
+            <h5>Dział:</h5>
+            {{form.dzial}}
+        </div>
+        <div class="field">
+            <h5>Tematy:</h5>
+            {{form.tematy}}
+        </div>
+        <div class="field">
+            <h5>Poziom trudności:</h5>
+            {{form.trudnosc}}
+        </div>
+    </div>
+    <input id="przyciskgeneruj" type="submit" value="GENERUJ &#9654;">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+        $("#id_dzial").change(function(){
+            const url = $("#paramsform").attr("data-tematy-url")
+            const dzial = $(this).val()
+            $.ajax({
+                url: url,
+                data: {
+                    'dzial': dzial
+                },
+                success: function(data){
+                    
+                    $("#paramsform").html(data)
+                }
+            }
+            )
+        }
+        )
+    </script>
+<style>
+    form{
+        margin:-200px;
+        padding:0;
+    }
+    *{
+        box-sizing: border-box;
+    }
+</style>

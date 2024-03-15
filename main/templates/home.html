@@ -1,0 +1,106 @@
+{% extends 'base.html' %}
+{%  load static %}
+
+{% block title %}Matura365 - generator arkuszy{% endblock %}
+{% block meta %}<link rel="stylesheet" href="{% static '/css/home.css' %}">{% endblock %}
+
+{% block content %}
+<div class="wrapper">
+    <div class="col">
+        <div class="zadanie">
+            <script>
+                function pokazOdpowiedzGlowna(){
+                    przyciskodpowiedz = document.getElementById("przyciskodpowiedz")
+                    odpowiedz = document.getElementById("odpowiedz")
+                    if(przyciskodpowiedz.innerHTML == "POKAŻ ODPOWIEDŹ"){
+                        przyciskodpowiedz.innerHTML = "UKRYJ ODPOWIEDŹ"
+                        odpowiedz.style.display = "block"
+                    }
+                    else{
+                        przyciskodpowiedz.innerHTML = "POKAŻ ODPOWIEDŹ"
+                        odpowiedz.style.display = "none"
+                    }
+                }
+            </script>
+            <h2>LOSOWE ZADANIE</h2>
+            {% autoescape off %}
+                <p>{{zadanie.tresc}}</p>
+            {% endautoescape %}
+            <div class="zadaniegrid">
+                <button id="przyciskodpowiedz" onclick="pokazOdpowiedzGlowna()">POKAŻ ODPOWIEDŹ</button>
+                <a href="/losujzadanie"><button>LOSUJ WIĘCEJ &#9654;</button></a>
+            </div>
+            {% autoescape off %}
+                <p id="odpowiedz"><b>Odpowiedź: </b>{{zadanie.odpowiedz}}</p>
+            {% endautoescape %}
+        </div> 
+        <div class="instrukcje">
+            <h2>ROZPOCZNIJ PRACĘ</h2>
+            <div class="instrukcjegrid">
+                <div class="gridcontainer">
+                    <!-- <p>Wygeneruj sprawdzian z wybranego działu i tematu o wybranym poziomie trudności</p> -->
+                    <a href="/testparametry"><button>GENERUJ TEST &#9654;</button></a>
+                </div>
+                <div class="gridcontainer">
+                    <!-- <p>Wylosuj zadanie na podstawie podanych parametrów</p> -->
+                    <a href="/losujzadanie"><button>LOSUJ ZADANIE &#9654;</button></a>
+                </div>
+                <div class="gridcontainer">
+                    <!-- <p>Przeglądaj wszystkie zadania, filtrując po wybranych parametrach</p> -->
+                    <a href="/baza"><button>PRZEGLĄDAJ BAZĘ &#9654;</button></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <script>
+            function arkuszeEnter(){
+                img1 = document.getElementById("img1")
+                img2 = document.getElementById("img2")
+                img3 = document.getElementById("img3")
+                img1.style.transform = "scale(1.05)"
+                img2.style.transform = "translateY(-5px)"
+                img3.style.transform = "translateY(-5px)"
+            }
+            function arkuszeLeave(){
+                img1 = document.getElementById("img1")
+                img2 = document.getElementById("img2")
+                img3 = document.getElementById("img3")
+                img1.style.transform = "scale(1)"
+                img2.style.transform = "translateY(0)"
+                img3.style.transform = "translateY(0)"
+            }
+        </script>
+        <div class="arkusze" onmouseenter="arkuszeEnter()" onmouseleave="arkuszeLeave()">
+            <h2>ARKUSZE MATURALNE</h2>
+            <span class="arkuszeimgs">
+                <img id="img2" src="{% static '/imgs/formula2015.png' %}">
+                <img id="img1" src="{% static '/imgs/formula2023.png' %}">
+                <img id="img3" src="{% static '/imgs/malamatura.png' %}">
+            </span>
+            <a href="/wyborarkusza"><button>GENERUJ &#9654;</button></a>
+        </div>
+        <div class="mobilna" onmouseenter="mobilnaEnter()" onmouseleave="mobilnaLeave()">
+            <script>
+                function mobilnaEnter(){
+                    imgmoblina = document.getElementById("imgmoblina")
+                    badge = document.getElementById("play-badge")
+                    badge.style.transform = "scale(1.1)"
+                    imgmobilna.style.transform = "scaleX(1.02) rotate(4deg)"
+                }
+                function mobilnaLeave(){
+                    imgmoblina = document.getElementById("imgmoblina")
+                    badge = document.getElementById("play-badge")
+                    badge.style.transform = "scale(1)"
+                    imgmobilna.style.transform = "scaleX(1) rotate(0deg)"
+                }
+            </script>
+            <div>
+                <h2>POBIERZ WERSJĘ MOBILNĄ</h2>
+                <a href="https://play.google.com/store/apps/details?id=com.grzelik.matura365.free&pcampaignid=web_share"><img style="transition: all .3s" id="play-badge" src="{% static 'imgs/google-play-badge.png' %}"></a>
+            </div>
+            <img id="imgmobilna" src="{% static '/imgs/mobilever.png' %}">
+        </div>
+    </div>
+</div>
+{% endblock %}

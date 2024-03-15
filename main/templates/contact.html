@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{%  load static %}
+
+{% block title %}Matura365 - generator arkuszy{% endblock %}
+{% block meta %}<link rel="stylesheet" href="{% static '/css/contactform.css' %}">{% endblock %}
+
+{% block content %}
+
+{% if thanks %}
+<div class="thanks">
+    <span>&#10003;</span>
+    <h1>Twoja wiadomość została wysłana.</h1>
+    <p>Dziękujemy za kontakt, odezwiemy się jak najszybciej.</p>
+    <a href="/"><button>STRONA GŁÓWNA &#9654;</button></a>
+</div>
+{% else %}
+<form class="contactform" method="POST">
+    {% csrf_token %}
+    <h2>FORMULARZ KONTAKTOWY</h2>
+    <p>Twoje imię:</p>
+    {{form.subject}}
+    <p>Twój email:</p>
+    {{form.email}}
+    <p>Wiadomość:</p>
+    {{form.message}}
+    <input id="wyslij" type="submit" value="WYŚLIJ &#9654;">
+</form>
+
+{% endif %}
+
+{% endblock %}

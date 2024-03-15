@@ -1,0 +1,168 @@
+@font-face{
+	font-family: bahnschrift;
+    src: url("fonts/BAHNSCHRIFT.eot");
+    src: url("fonts/BAHNSCHRIFT.TTF") format('truetype');
+    font-stretch: condensed;
+}
+
+
+.wrapper{
+    width: 1350px;
+    height: 85vh;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0px 0px 10px grey;
+    padding: 7px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    margin: 0;
+}
+
+
+
+form{
+    padding: 0px;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.field h5{
+    border-bottom: 1px solid #000cbc;
+    font-size: 45px;
+    margin: 10px;
+    text-align: center;
+}
+.field{
+    padding: 5px;
+}
+#field3{
+    display: flex;
+    flex-direction: column;
+}
+.formfields{
+    gap: 40px;
+    display: grid;
+    grid-template-columns: 3fr 4fr 3fr;
+}
+#przyciskgeneruj{
+    border-radius: 10px;
+    font-family: bahnschrift;
+    color: white;
+    font-size: 40px;
+    background-color: #000cbc;
+    border: 1px solid #000cbc;
+    height: 70px;
+    width: 100%;
+    transition: all .2s;
+    box-shadow: 2px 2px 2px grey;
+}
+#przyciskgeneruj:hover{
+    background-color: #8cfffb;
+    color: black;
+} 
+
+input[type="checkbox"] {
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: none;
+    font: inherit;
+    width: 26px;
+    height: 26px;
+    border: 2px solid #000cbc;
+    margin: 0 10px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 2px #000cbc;
+    transition: all .1s;
+}
+input[type="checkbox"]:hover{
+    box-shadow: 0px 0px 5px #000cbc;
+}
+input[type="checkbox"]:checked{
+    margin-left: 6px;
+    background-color: #000cbc;
+    content: ".";
+    color: white;
+}
+
+
+select{
+    font-family: bahnschrift;
+    width: 100%;
+    padding: 5px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 5px;
+    border: 2px solid #000cbc;
+    box-shadow: 0px 0px 2px #000cbc;
+    transition: all .1s;
+}
+select:hover{
+    box-shadow: 0px 0px 5px #000cbc;
+}
+
+
+.alert{
+    position: fixed;
+    bottom: 10px;
+    width: 600px;
+    height: 60px;
+    display: grid;
+    place-content: center;
+    left: calc(50% - 300px);
+    z-index: 2;
+    border: 2px solid #000cbc;
+    background-color: #000cbc;
+    box-shadow: 0px 0px 5px grey;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+/*#region LAPTOP*/
+@media screen and (max-width: 1366px){
+    .wrapper{width: 90%;gap:0;height:auto;padding: 20px;margin-top: 70px;}
+    form .field{font-size: 24px;}
+    .field h5{font-size: 28px;}
+    select{
+        height: 42px;
+        font-size: 24px;
+    }
+    .formfields{grid-template-columns: 3fr 4fr 3fr;}
+}
+
+/*#region MOBILE VERT*/
+@media screen and (max-width: 992px){
+    h1{font-size: 24px;}
+    .wrapper{
+        height: auto;
+        display: flex;
+        box-shadow: none;
+        width: 100%;
+        padding: 0;
+    }
+    form{height:auto;gap: 20px;padding: 2px;}
+    .formfields{grid-template-columns: 1fr;gap: 20px;height:auto;}
+    #przyciskgeneruj{font-size: 28px;height: 60px;}
+    .field h5{font-size: 24px;}
+    
+    select{font-size: 24px;}
+    input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+        border-radius: 6px;
+    }
+    input[type="number"]{
+        margin-left: 10px;
+    }
+    .alert{width: 80%;left: 10%;font-size: 24px;}
+    
+    
+    
+}

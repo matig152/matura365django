@@ -1,0 +1,51 @@
+@font-face{
+	font-family: bahnschrift;
+    src: url("fonts/BAHNSCHRIFT.eot");
+    src: url("fonts/BAHNSCHRIFT.TTF") format('truetype');
+    font-stretch: condensed;
+}
+
+.test{
+    width: 1100px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 120px;
+    box-shadow: 1px 1px 10px grey;
+    font-size: 26px;
+    border-radius: 10px;
+}
+.meta{
+    font-weight: 900;
+    color: #000cbc;
+    margin: 0;
+    text-align: right;
+    border-bottom: 2px solid #000cbc;
+    font-size: 22px;
+}
+.tresc{
+    font-size: 30px;
+}
+.grid-przyciski{
+    width: 1100px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+button{
+    border-radius: 10px;
+    font-family: bahnschrift;
+    color: white;
+    font-size: 30px;
+    background-color: #000cbc;
+    border: 1px solid #000cbc;
+    height: 55px;
+    width: 100%;
+    transition: all .2s;
+    box-shadow: 2px 2px 2px grey;
+}
+button:hover{
+    background-color: #8cfffb;
+    color: black;
+}
+

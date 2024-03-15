@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{%  load static %}
+
+{% block title %}Instrukcje - Matura365{% endblock %}
+{% block meta %}<link rel="stylesheet" href="{% static '/css/instrukcje.css' %}">{% endblock %}
+
+
+{% block content %}
+
+<div class="wrapper">
+    <span>
+        <img src="{% static '/imgs/logo_do_bg1.png' %}">
+        <h5>Witaj w aplikacji Matura 365! Poniżej znajdziesz instrukcje potrzebne do korzystania z generatora.</h5>
+    </span>
+    <div class="maingrid">
+        <div class="gridfield">
+            <h1>Arkusze Maturalne</h1>
+            <p>Aby wygenerować arkusz, przejdź do zakładki GENERUJ ARKUSZE, a następnie wybierz interesującą cię formułę matury. Każdy arkusz można zapisać bezpośrednio do pliku PDF.</p>
+        </div>
+        <div class="gridfield">
+            <h1>Sprawdziany</h1>
+            <p>Sprawdziany można generować w zakładce GENERUJ TEST - należy wybrać parametry takie jak dział, tematy, trudność zadań oraz ich liczbę, a system wygeneruje dla nas odpowiedni sprawdzian. Sprawdziany, podobnie jak arkusze można zapisać w  pliku PDF.</p>
+        </div>
+        <div class="gridfield">
+            <h1>Losowanie zadań</h1>
+            <p>Aby wylosować pojedyncze zadanie o wskazanych parametrach, przejdź do zakładki LOSUJ ZADANIE. </p>
+        </div>
+        <div class="gridfield">
+            <h1>Przeglądanie bazy</h1>
+            <p>Matura 365 umożliwia również przeglądanie całej bazy zadań - należy przejść do zakładki PRZEGLĄDAJ BAZĘ i wybrać odpowiednie parametry.</p>
+        </div>
+
+    </div>
+
+</div>
+
+{% endblock %}

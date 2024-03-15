@@ -1,0 +1,1706 @@
+[
+{
+"tresc":"Rozwiąż równanie: 2x + 8 = 4.",
+"temat":"Równania liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -2."
+},
+{
+"tresc":"Rozwiąż równanie: 3x + 3 = 2x - 7.",
+"temat":"Równania liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -10."
+},
+{
+"tresc":"Rozwiąż równanie: 6x - 60 = x.",
+"temat":"Równania liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 12."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>5x</sup>/<sub>2</sub> = x + 6.",
+"temat":"Równania liniowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 4."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>3x</sup>/<sub>2</sub> = <sup>7x</sup>/<sub>4</sub> + 4.",
+"temat":"Równania liniowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = -16."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>x</sup>/<sub>3</sub> = <sup>3x</sup>/<sub>5</sub> + 12.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = -45."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>x</sup>/<sub>2</sub> + 4  = <sup>4x</sup>/<sub>7</sub> + 1.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = 42."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>x</sup>/<sub>6</sub> - 4 = 1.",
+"temat":"Równania liniowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 30."
+},
+{
+"tresc":"Rozwiąż równanie: 2(x - 13) = 26.",
+"temat":"Równania liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 26"
+},
+{
+"tresc":"Rozwiąż równanie: 2(x - 8) = 9.",
+"temat":"Równania liniowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 12 <sup>1</sup>/<sub>2</sub>."
+},
+{
+"tresc":"Rozwiąż równanie: 3(x - 2) = 27.",
+"temat":"Równania liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 11."
+},
+{
+"tresc":"Belkę o długości 14 metrów podzielono na dwa odcinki w stosunku 2 : 5. Oblicz długości odcinków.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "4m, 10m."
+},
+{
+"tresc":"Belkę o długości 20 metrów podzielono na trzy odcinki w stosunku 2 : 3 : 5. Oblicz długości odcinków.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "4m, 6m, 10m."
+},
+{
+"tresc":"Belkę podzielono na dwa odcinki w stosunku 1 : 4. Krótszy z nich ma długość 3 metrów. Oblicz długość belki.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "15 metrów."
+},
+{
+"tresc":"Obwód trójkąta równoramiennego jest równy 27 cm. Ramiona są o 3 cm dłuższe od podstawy. Oblicz długości boków.",
+"temat":"Równania liniowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "10cm, 10cm, 7cm."
+},
+{
+"tresc":"Obwód prostokąta jest równy 12 cm. Boki różnią się długością o 2 cm. Oblicz długości boków.",
+"temat":"Równania liniowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "Dwa boki po 2cm i dwa boki po 4cm."
+},
+{
+"tresc":"Rozwiąż równanie: 2x + 4 = 2x - 8.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Równanie jest sprzeczne."
+},
+{
+"tresc":"Rozwiąż równanie: 3(x + 1) - 3 = 3x.",
+"temat":"Równania liniowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Równanie ma nieskończenie wiele rozwiązań."
+},
+{
+"tresc":"Rozwiąż równanie: 5(x + 2) - 12 - x = 4x.",
+"temat":"Równania liniowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Równanie jest sprzeczne."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>12x</sup>/<sub>5</sub> = <sup>9x</sup>/<sub>4</sub> + <sup>3x</sup>/<sub>20</sub>. ",
+"temat":"Równania liniowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Równanie ma nieskończenie wiele rozwiązań."
+},
+{
+"tresc":"Piotrek kupił 3 czekolady i 4 batony, płacąc w sumie 26 zł. Wiedząc, że czekolada jest 3 razy droższa od batona, wyznacz ceny obu produktów.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Czekolada kosztuje 6 zł, a baton 2 zł."
+},
+{
+"tresc":"Janek kupił 2 czekolady, 5 jabłek i bochenek chleba. Za zakupy zapłacił łącznie 26 zł. Wiedząc, że czekolada jest półtora raza droższa od jabłka, a cena dwóch jabłek i dwóch czekolad jest równa cenie bochenka, oblicz ceny poszczególnych produktów. ",
+"temat":"Równania liniowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Czekolada - 3 zł, jabłko - 2 zł, bochenek chleba - 10 zł."
+},
+{
+"tresc":"Rozwiąż równanie: (x + 4)<sup>2</sup> - (x - 2)<sup>2</sup> = 16.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = <sup>1</sup>/<sub>3</sub>"
+},
+{
+"tresc":"Rozwiąż równanie: (x + 3)<sup>2</sup> = (x - 2)<sup>2</sup> + 3.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = -<sup>1</sup>/<sub>5</sub>"
+},
+{
+"tresc":"Rozwiąż równanie: (x - 2)(x + 6) = (x + 1)<sup>2</sup> + 1.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = 7"
+},
+{
+"tresc":"Rozwiąż równanie: (x - 1)(2x + 3) = 2(x + 3)<sup>2</sup> + 12.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = -3"
+},
+{
+"tresc":"Piotrek ma o 20% więcej koszulek od Janka. Gdyby Piotrek oddał Jankowi 1 koszulkę, to chłopcy mieliby ich tyle samo. Oblicz ile koszulek ma Janek, a ile Piotrek.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Piotrek - 12 koszulek, Janek - 10 koszulek."
+},
+{
+"tresc":"Rozwiąż równanie: (x + 3)(x - 8) = (x - 2)(x + 2) - 12.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x = - <sup>8</sup>/<sub>5</sub>"
+},
+{
+"tresc":"Wiedząc, że rozwiązaniem równania 2(x + m) = 12m - 6 jest liczba 8 wyznacz paramter m.",
+"temat":"Równania liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "m = 37."
+},
+{
+"tresc":"Dane jest równanie: <sup>(x - 3)</sup>/<sub>(4 - x)</sub> = 0. Wyznacz dziedzinę oraz rozwiązanie.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "Dziedzina: x &isin; &#8477; - {4}, rozwiązanie: x = 3."
+},
+{
+"tresc":"Dane jest równanie: <sup>(2x - 4)(x + 1)</sup>/<sub>(x - 2)</sub> = 0. Wyznacz dziedzinę oraz rozwiązanie.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Dziedzina: x &isin; &#8477;, rozwiązanie: x = -1."
+},
+{
+"tresc":"Dane jest równanie: <sup>(3x - 2)</sup>/<sub>(x - 3)</sub> = 2. Wyznacz dziedzinę oraz rozwiązanie.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Dziedzina: x &isin; &#8477; - {3}, rozwiązanie: x = -4."
+},
+{
+"tresc":"Dane jest równanie: <sup>(16 - x<sup>2</sup>)</sup>/<sub>(x + 2)(4 - x)</sub> = 0. Wyznacz dziedzinę oraz rozwiązanie.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Dziedzina: x &isin; &#8477; - {-2, 4}, rozwiązanie: x = -4."
+},
+{
+"tresc":"Dane jest równanie: <sup>(8 - x<sup>2</sup>)</sup>/<sub>(x + 2)(x - 3)</sub> = 0. Wyznacz dziedzinę oraz rozwiązanie.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Dziedzina: x &isin; &#8477; - {-2, 3}, rozwiązania: x = 2&#8730;2, x = -2&#8730;2."
+},
+{
+"tresc":"Dane jest równanie: <sup>(2 - x)</sup>/<sub>(x + 4)(x - 1)</sub> = 0. Wyznacz dziedzinę oraz rozwiązanie.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "Dziedzina: x &isin; &#8477; - {-4, 1}, rozwiązanie: x = 2."
+},
+{
+"tresc":"Dane jest równanie: <sup>(9 - 3x)</sup>/<sub>(3x + 12)(2x - 1)</sub> = 0. Wyznacz dziedzinę oraz rozwiązanie.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "Dziedzina: x &isin; &#8477; - {-4, <sup>1</sup>/<sub>2</sub>}, rozwiązanie: x = 3."
+},
+{
+"tresc":"Dane jest równanie: <sup>(4x - 12)</sup>/<sub>(x + 2)(x - 1)</sub> = 0. Wyznacz dziedzinę oraz rozwiązanie.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Dziedzina: x &isin; &#8477; - {-2, 1}, rozwiązanie: x = 3."
+},
+{
+"tresc":"Dane jest równanie <sup>(2x<sup>2</sup> - 8)</sup>/<sub>(x + 4)(x + 6)</sub> = 0. Wyznacz dziedzinę oraz rozwiązania.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Dziedzina: x &isin; &#8477; - {-6, -4}, rozwiązania: x = 2 oraz x = -2."
+},
+{
+"tresc":"Dane jest równanie <sup>(x<sup>2</sup> - 1)</sup>/<sub>(x + 1)(x - 2)</sub> = 0. Wyznacz dziedzinę oraz rozwiązanie.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Dziedzina: x &isin; &#8477; - {-1, 2}, rozwiązanie: x = 1."
+},
+{
+"tresc":"Wyznacz liczbę rozwiązań równania <sup>(x + 2)(3 - x)(12 - 6x)</sup>/<sub>(2 - x)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Równanie ma 2 rozwiązania."
+},
+{
+"tresc":"Wyznacz liczbę rozwiązań równania <sup>(x + 2)(3x - 9)</sup>/<sub>(x - 3)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Równanie ma 1 rozwiązanie."
+},
+{
+"tresc":"Wyznacz liczbę rozwiązań równania <sup>(2x + 3)(x - 9)</sup>/<sub>(4x + 6)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "Równanie ma 1 rozwiązanie."
+},
+{
+"tresc":"Wyznacz liczbę rozwiązań równania <sup>(x - 2)(4 - x)</sup>/<sub>(3x - 6)(8 - 2x)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "Równanie nie ma rozwiązań."
+},
+{
+"tresc":"Wyznacz liczbę rozwiązań równania <sup>(3 - 27x)(2 - 8x)</sup>/<sub>(9x - 1)(4x - 1)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Równanie nie ma rozwiązań."
+},
+{
+"tresc":"Wyznacz liczbę rozwiązań równania <sup>(3x<sup>2</sup> - 12)</sup>/<sub>(x - 4)(x - 2)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Równanie ma 1 rozwiązanie."
+},
+{
+"tresc":"Wyznacz liczbę rozwiązań równania <sup>(3 - x)(5 - x)(x<sup>2</sup> - 16)</sup>/<sub>(x - 4)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Równanie ma 3 rozwiązania."
+},
+{
+"tresc":"Wyznacz liczbę rozwiązań równania <sup>(6 - x)(x<sup>3</sup> - 8)</sup>/<sub>(x<sup>2</sup> - 4)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Równanie ma 1 rozwiązanie."
+},
+{
+"tresc":"Wyznacz liczbę różnych rozwiązań równania <sup>(2 - x)(x<sup>3</sup> - 4x)</sup>/<sub>(x<sup>2</sup> - 3x)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Równanie ma 2 różne rozwiązania."
+},
+{
+"tresc":"Wyznacz liczbę rozwiązań równania <sup>(x<sup>3</sup> - 5x<sup>2</sup>)</sup>/<sub>(x<sup>2</sup> - 25)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Równanie ma 1 rozwiązanie."
+},
+{
+"tresc":"Wyznacz liczbę różnych rozwiązań równania <sup>(x<sup>4</sup> - 16)(x + 2)</sup>/<sub>(x - 2)</sub> = 0.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Równanie ma 1 rozwiązanie."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(x - 4)</sup>/<sub>(x + 2)</sub> = <sup>(x + 5)</sup>/<sub>(x + 8)</sub>.",
+"temat":"Równania wymierne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = -14."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(x - 8)</sup>/<sub>(4 - x)</sub> = <sup>(x + 6)</sup>/<sub>(2 - x)</sub>.",
+"temat":"Równania wymierne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = <sup>10</sup>/<sub>3</sub>."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>2</sup>/<sub>x</sub> = <sup>(x - 3)</sup>/<sub>(x<sup>2</sup> + 2)</sub>.",
+"temat":"Równania wymierne",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "Równanie nie ma rozwiązań."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>1</sup>/<sub>x</sub> = <sup>(x - 4)</sup>/<sub>2x<sup>2</sup></sub>.",
+"temat":"Równania wymierne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = -4 (x = 0 nie należy do dziedziny)."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(x<sup>2</sup> - 2)</sup>/<sub>x</sub> = <sup>(2x<sup>2</sup> - 4)</sup>/<sub>(2x - 4)</sub>.",
+"temat":"Równania wymierne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = -√3 - 1 lub x = √3 - 1."
+},
+{
+"tresc":"Rozwiąż równanie: x + 6 = - <sup>9</sup>/<sub>x</sub>.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = -3."
+},
+{
+"tresc":"Rozwiąż równanie: x + 4 = - <sup>3</sup>/<sub>x</sub>.",
+"temat":"Równania wymierne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = -3 lub x = -1."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(3x - 1)</sup>/<sub>(12 - x)</sub> = 4.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 7."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(4 - x)</sup>/<sub>(x + 2)</sub> = 5.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -1."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(1 + x)</sup>/<sub>(1 - x)</sub> = 1 + x.",
+"temat":"Równania wymierne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 0 lub x = -1."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>6x - 2y = 4 <br>8x + 4y = 2 ",
+"temat":"Układy równań",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = <sup>1</sup>/<sub>2</sub>, y = - <sup>1</sup>/<sub>2</sub>"
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>5x - y = 4 <br>x + y = 2",
+"temat":"Układy równań",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 1, y = 1."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>5x + 2y = 16 <br>6x + 4y = 12",
+"temat":"Układy równań",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 5, y = -4<sup>1</sup>/<sub>2</sub>."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>4x + 8y = 6<br>12x + 15y = -9",
+"temat":"Układy równań",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -4<sup>1</sup>/<sub>2</sub>, y = 3."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>5x - 2y = 16<br>-3x - 2y = 0",
+"temat":"Układy równań",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 2, y = -3."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>y - 2x = 19<br>x + y = 4",
+"temat":"Układy równań",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = -5, y = 9."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>3y - 4x = 10<br>y + 4x = 2",
+"temat":"Układy równań",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -<sup>1</sup>/<sub>4</sub>, y = 3."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>2x - y = 4<br>2y - 3x = 4",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = 12, y = 20."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>x - 2y = 3<br>14y - 5x = 7",
+"temat":"Układy równań",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 14, y = 5 <sup>1</sup>/<sub>2</sub>."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>x - y = 1<br>2y - x = 4",
+"temat":"Układy równań",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 6, y = 5."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>2x - 4y = 12<br>2y - x = -6",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Układ jest nieoznaczony (ma nieskończenie wiele rozwiązań)."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>6x - 4y = 4<br>2y - 3x = -2",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Układ jest nieoznaczony (ma nieskończenie wiele rozwiązań)."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>6x - 4y = 4<br>2y - 3x = -4",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Układ jest sprzeczny."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>6x - 12y = 24<br>4y - 2x = -12",
+"temat":"Układy równań",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "Układ jest sprzeczny."
+},
+{
+"tresc":"Wyznacz rozwiązanie układu równań:<br>x + y + z = 7<br>2x + y = 10<br> y + z =3",
+"temat":"Układy równań",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x = 4, y = 2, z = 1."
+},
+{
+"tresc":"Dla jakiej wartości parametru a układ:<br>2x + y = 3<br>4x + ay = 6<br>jest nieoznaczony?",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a = 2."
+},
+{
+"tresc":"Dla jakiej wartości parametru a układ:<br>8x + 2y = 12<br>4x + y = a<br>jest nieoznaczony?",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a = 6."
+},
+{
+"tresc":"Dla jakich wartości parametru a układ:<br>8x + 2y = 12<br>-4x - y = a - 2<br>jest sprzeczny?",
+"temat":"Układy równań",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "a ∈ (-&infin;, -4) ∪ (-4, +&infin;), bo a - 2 ≠ -6."
+},
+{
+"tresc":"Określ liczbę rozwiązań układu:<br>6x - 2y = 4<br> 3x + 2 = y",
+"temat":"Układy równań",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Układ nie ma rozwiązań."
+},
+{
+"tresc":"Określ liczbę rozwiązań układu:<br>8x - 4y = 24<br> 2x - 6 = y",
+"temat":"Układy równań",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Układ ma nieskończenie wiele rozwiązań."
+},
+{
+"tresc":"Piotr kupił 2 czekolady i 3 soki za 22 złote, a następnego dnia 1 czekoladę i 1 sok za 8 złotych. Wyznacz cenę czekolady i soku.",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Czekolada - 2 zł, sok - 6 zł."
+},
+{
+"tresc":"Rodzice z trójką dzieci zapłacili za wejście do muzeum 24 złote, a rodzice z jednym dzieckiem 16 złotych. Oblicz cenę biletu ulgowego i normalnego.",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Ulgowy - 4 zł, Normalny - 6 zł."
+},
+{
+"tresc":"W klasie 1a są 22 osoby. Kiedy dwie dziewczynki są nieobecne, liczba dziewcząt jest równa liczbie chłopców. Wyznacz liczbę chłopców i dziewcząt w klasie 1a.",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "W klasie 1a jest 10 chłopców i 12 dziewcząt."
+},
+{
+"tresc":"Na wspólną wycieczkę klas 1A i 1B pojechało razem 46 uczniów. Gdyby 6 uczniów z klasy 1B nie pojechało na wycieczkę, liczba osób z obu klas byłaby taka sama. Wyznacz liczebność obu klas.",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "1A - 20, 1B - 26."
+},
+{
+"tresc":"Andrzej jest 48 lat młodszy od swojego dziadka. Dwa lata temu dziadek był od niego pięć razy starszy. Oblicz aktualny wiek Andrzeja i jego dziadka.",
+"temat":"Układy równań",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Andrzej ma 14 lat, a jego dziadek 62."
+},
+{
+"tresc":"Tata Janka jest od niego trzy razy starszy. 8 lat temu był od niego pięć razy starszy. Wyznacz obecny wiek Janka i jego taty.",
+"temat":"Układy równań",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Janek ma 16 lat, a jego tata 48."
+},
+{
+"tresc":"Za 2 zeszyty i 4 jednakowe książki zapłacono 36 złotych. Wiedząc, że jedna taka książka kosztuje czterokrotnie więcej niż zeszyt, wyznacz cenę obu produktów.",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Zeszyt - 2 zł, książka - 8 zł."
+},
+{
+"tresc":"Na konkursie za każde poprawnie rozwiązane zadanie uczestnik otrzymywał 2 punkty, a za każde źle rozwiązane tracił 0,5 punkta. Janek uzyskał w sumie 28 punktów, a wszystkich zadań było 24. Oblicz ile zadań rozwiązał poprawnie.",
+"temat":"Układy równań",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Janek rozwiązał poprawnie 16 zadań."
+},
+{
+"tresc":"Kwotę 17 złotych wydano w monetach 2- i 1-złotowych, a ilość złotówek była o dwa większa od liczby 2-złotówek. Oblicz ilości poszczególnych monet. ",
+"temat":"Układy równań",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "5 dwuzłotówek i 7 złotówek."
+},
+{
+"tresc":"Dwa samochody jednocześnie wyjechały z miejscowości oddalonych o 240 km. Pierwszy z nich poruszał się z prędkością 40 km/h, a drugi 80 km/h. Oblicz czas, jaki upłynął od startu do momentu spotkania samochodów.",
+"temat":"Układy równań",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "2 godziny."
+},
+{
+"tresc":"Rozwiąż równanie: |12 - x| = 10.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 22 lub x = 2."
+},
+{
+"tresc":"Rozwiąż równanie: |x + 6| = 5.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -11 lub x = -1."
+},
+{
+"tresc":"Rozwiąż równanie: |2x + 6| = 12.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -9 lub x = 3."
+},
+{
+"tresc":"Rozwiąż równanie: |4 - 7x| = 10.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = -<sup>6</sup>/<sub>7</sub> lub x = 2."
+},
+{
+"tresc":"Rozwiąż równanie: |√2 - x| = 1.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = √2 - 1 lub x = √2 + 1."
+},
+{
+"tresc":"Rozwiąż równanie: |12 + 4x| = 16.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 1 lub x = -7."
+},
+{
+"tresc":"Rozwiąż równanie: |10 + 5x| = 35.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -9 lub x = 5."
+},
+{
+"tresc":"Rozwiąż równanie: 12 - |x + 8| = 48.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "Brak rozwiązań."
+},
+{
+"tresc":"Rozwiąż równanie: |x<sup>2</sup> + 1| = 5.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x = -2 lub x = 2."
+},
+{
+"tresc":"Rozwiąż równanie: |x - 12| = 1.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 11 lub x = 13."
+},
+{
+"tresc":"Rozwiąż równanie: ||x| - 5| = 4.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; {-9, -1, 1, 9}."
+},
+{
+"tresc":"Rozwiąż równanie: ||x - 4| - 6| = 18.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = -20, x = 28."
+},
+{
+"tresc":"Rozwiąż równanie: |x - 6| = x + 2.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = 2."
+},
+{
+"tresc":"Rozwiąż równanie: |8 - x| = 2x - 6.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = <sup>14</sup>/<sub>3</sub>."
+},
+{
+"tresc":"Rozwiąż równanie: |16 - x| = 12 + x.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = 2."
+},
+{
+"tresc":"Rozwiąż równanie: |10 - 2x| = 4x.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = <sup>5</sup>/<sub>3</sub>."
+},
+{
+"tresc":"Rozwiąż równanie: |4x + 3| = x<sup>2</sup>.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; {2 + √7, 2 - √7, -3, -1}"
+},
+{
+"tresc":"Rozwiąż równanie: |6x - 13| = x<sup>2</sup> - 4.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; {-3 - √26, -3 + √26, 3}"
+},
+{
+"tresc":"Rozwiąż równanie: |x - 2| = <sup>1</sup>/<sub>x</sub>.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; {1 + √2, 1}"
+},
+{
+"tresc":"Rozwiąż równanie: |1 - x<sup>2</sup>| = 3.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; {-2, 2}"
+},
+{
+"tresc":"Rozwiąż równanie: |x| = x<sup>2</sup> - 4x + 6.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; {2, 3}"
+},
+{
+"tresc":"Rozwiąż równanie: |x + 3| + |x - 2| = 4",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "Równanie nie ma rozwiązań."
+},
+{
+"tresc":"|x + 2| + |x - 4| = 6",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; [-2;4]."
+},
+{
+"tresc":"Rozwiąż równanie: |x - 4| + |x| = 10",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; {-3, 7}"
+},
+{
+"tresc":"Rozwiąż równanie: |x + 3| + |2x - 1| = 10.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; {-4, <sup>8</sup>/<sub>3</sub>}"
+},
+{
+"tresc":"Rozwiąż równanie: |2 - x| + |x - 2| = 2.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; {1, 3}"
+},
+{
+"tresc":"Rozwiąż równanie: |<sup>2</sup>/<sub>x</sub>| = -8x.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x = - <sup>1</sup>/<sub>2</sub>."
+},
+{
+"tresc":"Rozwiąż równanie: |x<sup>2</sup> - 34| = x<sup>2</sup> - 16.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = -5 lub x = 5."
+},
+{
+"tresc":"Rozwiąż równanie: |log<sub>2</sub>x| = 5.",
+"temat":"Równania z wartością bezwzględną",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = 32 lub x = <sup>1</sup>/<sub>32</sub>."
+},
+{
+"tresc":"Rozwiąż równanie: x<sup>2</sup> + 2x + 1  = 0.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -1."
+},
+{
+"tresc":"Rozwiąż równanie: x<sup>2</sup> - 6x + 9  = 0.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 3."
+},
+{
+"tresc":"Rozwiąż równanie: x<sup>2</sup> + 3x - 4  = 0.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -1 lub x = -4."
+},
+{
+"tresc":"Rozwiąż równanie: x<sup>2</sup> -  4x - 5  = 0.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -1 lub x = 5."
+},
+{
+"tresc":"Rozwiąż równanie: x<sup>2</sup> -  6x + 7  = 0.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 3 - √2  lub x = 3 + √2."
+},
+{
+"tresc":"Rozwiąż równanie: 2x<sup>2</sup> -  4x - 4  = <sup>(x<sup>3</sup> -  2x<sup>2</sup> - x)</sup>/<sub>x</sub>.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -1  lub x = 3."
+},
+{
+"tresc":"Rozwiąż równanie: x<sup>2</sup> + 8x - 8  = 16 - 2x.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -12  lub x = 2."
+},
+{
+"tresc":"Rozwiąż równanie: 3x<sup>2</sup> - 2x - 15  = 2x<sup>2</sup>.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = -3  lub x = 5."
+},
+{
+"tresc":"Rozwiąż równanie: 3x<sup>2</sup> - 2x + 2  = 2x<sup>2</sup> + 4x - 6.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x = 2 lub x = 4."
+},
+{
+"tresc":"Rozwiąż równanie: x<sup>2</sup> + 6x + 10  = 0",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "Równanie nie ma rozwiązań."
+},
+{
+"tresc":"Rozwiąż równanie: x<sup>2</sup> - 16  = 0.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 4 lub x = -4."
+},
+{
+"tresc":"Rozwiąż równanie: x<sup>2</sup> + 2  = 2x.",
+"temat":"Równania kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Równanie nie ma rozwiązań."
+},
+{
+"tresc":"Liczby x<sub>1</sub> i x<sub>2</sub> są pierwiastkami równania x<sup>2</sup> + 4x - 12 = 0. Oblicz x<sub>1</sub><sup>2</sup> + x<sub>2</sub><sup>2</sup>.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "40."
+},
+{
+"tresc":"Liczby x<sub>1</sub> i x<sub>2</sub> są pierwiastkami równania x<sup>2</sup> + x - 2 = 0. Oblicz x<sub>1</sub><sup>2</sup> + x<sub>2</sub><sup>2</sup>.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "5."
+},
+{
+"tresc":"Rozwiąż równanie: (x - 3)<sup>2</sup> = x - 3.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = 3 lub x = 4."
+},
+{
+"tresc":"Rozwiąż równanie: 6(-x<sup>2</sup> + x - 1) = 26 - 5x<sup>2</sup> - 6x",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x = 4 lub x = 8."
+},
+{
+"tresc":"Rozwiąż równanie: (x<sup>2</sup> + 5x + 6)(x<sup>2</sup> - x - 2) = 0",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; {-3, -2, -1, 2}."
+},
+{
+"tresc":"Rozwiąż równanie: x - 6 = <sup>8</sup>/<sub>x</sub>.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x = 3 - √17 lub x = 3 + √17."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>x</sup>/<sub>2</sub> + <sup>3</sup>/<sub>2x</sub> = 3x + 7.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x = <sup>1</sup>/<sub>5</sub> lub x = -3."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>[(x - 3)<sup>2</sup> + 9]</sup>/<sub>(5 - x)</sub> = 4x.",
+"temat":"Równania kwadratowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x = <sup>(13 - √79)</sup>/<sub>5</sub> lub x = <sup>(13 + √79)</sup>/<sub>5</sub>."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(3x<sup>2</sup> + 12x - 2)</sup>/<sub>(x + 1)<sup>2</sup></sub> = 2.",
+"temat":"Równania kwadratowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x = -4 - 2√5 lub x = -4 + 2√5."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(x<sup>2</sup> - 1)</sup>/<sub>(x + 1)<sup>2</sup></sub> + <sup>x</sup>/<sub>(x + 1)</sub> = 1.",
+"temat":"Równania kwadratowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = 2."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(x<sup>2</sup> - 4)</sup>/<sub>(x - 2)</sub> = 4.",
+"temat":"Równania kwadratowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Brak rozwiązań (2 nie należy do dziedziny)."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(x + 2)</sup>/<sub>(x<sup>2</sup> + 4x + 4)</sub> = -1.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x = -3."
+},
+{
+"tresc":"Rozwiąż równanie: <sup>(x<sup>2</sup> + 2x - 3)</sup>/<sub>(1 - x)</sub> = 1.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x = -4."
+},
+{
+"tresc":"Rozwiąż równanie: 6x<sup>2</sup> - 12x + 2 = 4x.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = <sup>(4 - √13)</sup>/<sub>3</sub> lub x = <sup>(4 + √13)</sup>/<sub>3</sub>."
+},
+{
+"tresc":"Pary boków prostokąta różnią się długością o jeden centymetr, a jego pole to 2cm<sup>2</sup>. Oblicz długości boków.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "1cm oraz 2cm."
+},
+{
+"tresc":"Prostokątna działka ma powierzchnię 2940m<sup>2</sup>. Stosunek długości jej boków to 5:3. Oblicz ile właściciel zapłaci za ogrodzenie działki, jeżeli 1 metr ogrodzenia kosztuje 40 zł. ",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "8960 zł."
+},
+{
+"tresc":"Suma kwadratów dwóch kolejnych liczb całkowitych jest równa 5. Wyznacz te liczby.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "-2 i -1 lub 1 i 2."
+},
+{
+"tresc":"Suma kwadratów dwóch liczb: dowolnej całkowitej oraz większej od niej o 3 jest równa 17. Wyznacz te liczby.",
+"temat":"Równania kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "-4 i -1 lub 1 i 4."
+},
+{
+"tresc":"Rozwiąż równanie dwukwadratowe: x<sup>4</sup> + 12x<sup>2</sup> - 64.",
+"temat":"Równania kwadratowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = 2 lub x = -2."
+},
+{
+"tresc":"Rozwiąż równanie dwukwadratowe: x<sup>4</sup> - 13x<sup>2</sup> + 36.",
+"temat":"Równania kwadratowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; {-3, -2, 2, 3}."
+},
+{
+"tresc":"Rozwiąż równanie dwukwadratowe: x<sup>4</sup> - 19x<sup>2</sup> - 150.",
+"temat":"Równania kwadratowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = 5 lub x = -5."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: 12x - 3 &ge; 21.",
+"temat":"Nierówności liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x &#8712; [2; +&infin;)"
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: 4x - 12 &le; 16.",
+"temat":"Nierówności liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; 7]"
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: 8 - x < 12.",
+"temat":"Nierówności liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x &#8712; (-4; +&infin;)."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: 23 - 3x > 2.",
+"temat":"Nierówności liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; 7)."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: 3x + 7 > 2x + 12.",
+"temat":"Nierówności liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x &#8712; (5; +&infin;)."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: 2(x + 12) > 2x + 4.",
+"temat":"Nierówności liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; &#8477;."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: -3x + 2(3 - x) < -5x + 7.",
+"temat":"Nierówności liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; &#8477;."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: -12x - 2 > -(2 + 10x) - 2x + 6.",
+"temat":"Nierówności liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; &#8709;."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: 3x - 19 &ge; 9x - (12 + 6x).",
+"temat":"Nierówności liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; &#8709;."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: <sup>(6x - 2)</sup>/<sub>4</sub> < <sup>7</sup>/<sub>2</sub>.",
+"temat":"Nierówności liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin;; <sup>8</sup>/<sub>3</sub>)."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: <sup>(2 - x)</sup>/<sub>5</sub> > <sup>(x - 6)</sup>/<sub>7</sub>.",
+"temat":"Nierówności liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin;; <sup>11</sup>/<sub>6</sub>)."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: <sup>(4 - x)</sup>/<sub>2</sub> &ge; <sup>(12 - x)</sup>/<sub>4</sub>.",
+"temat":"Nierówności liniowe",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; -4]."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: (x - 2)<sup>2</sup> > x<sup>2</sup> - 8x + 12.",
+"temat":"Nierówności liniowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; (2; +&infin;)."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: <sup>(6 - x)</sup>/<sub>-2</sub> &le; x.",
+"temat":"Nierówności liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; [-6; +&infin;)."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: <sup>x</sup>/<sub>4</sub> + <sup>(2x - 2)</sup>/<sub>12</sub> + 6 &le; 0.",
+"temat":"Nierówności liniowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin;; -14]."
+},
+{
+"tresc":"Wyznacz zbiór będący rozwiązaniem nierówności: <sup>x</sup>/<sub>2</sub> + <sup>(x - 4)</sup>/<sub>6</sub> &ge; 4.",
+"temat":"Nierówności liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; [7; +&infin;)."
+},
+{
+"tresc":"Jaka jest najmniejsza liczba całkowita spełniająca nierówność 6x - 5 &ge; 4?",
+"temat":"Nierówności liniowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 2."
+},
+{
+"tresc":"Jaka jest najmniejsza liczba całkowita spełniająca nierówność 4 + x < 7x - 2?",
+"temat":"Nierówności liniowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 2."
+},
+{
+"tresc":"Jaka jest największa liczba całkowita spełniająca nierówność 16 - 3x > 2?",
+"temat":"Nierówności liniowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 4."
+},
+{
+"tresc":"Jaka jest największa liczba całkowita spełniająca nierówność 4 - 7x > <sup>(3x + 2)</sup>/<sub>2</sub>?",
+"temat":"Nierówności liniowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x = 0."
+},
+{
+"tresc":"Ile jest liczb całkowitych jednocześnie spełniających nierówności: x - 3 &le; 6 oraz 3x + 4 > 3?",
+"temat":"Nierówności liniowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "10 liczb (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)."
+},
+{
+"tresc":"Ile jest liczb całkowitych jednocześnie spełniających nierówności: 7x - 4 &le; <sup>(x + 10)</sup>/<sub>2</sub> oraz 9x &ge; <sup>(x - 1)</sup>/<sub>2</sub>?",
+"temat":"Nierówności liniowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "2 liczby (0, 1)."
+},
+{
+"tresc":"Ile jest liczb całkowitych jednocześnie spełniających nierówności: 6x - 3 &ge; 9 oraz 3x &le; x - 4?",
+"temat":"Nierówności liniowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "0 liczb."
+},
+{
+"tresc":"Podaj przedział wewnątrz którego spełnione są nierówności: 12x - 9 > 3 oraz 4 + x &le; 12.",
+"temat":"Nierówności liniowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; (1; 8]"
+},
+{
+"tresc":"Podaj przedział wewnątrz którego spełnione są nierówności: <sup>(2x - 3)</sup>/<sub>6</sub> - x > 3 oraz 4x < <sup>(x + 2)</sup>/<sub>3</sub>.",
+"temat":"Nierówności liniowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; -<sup>21</sup>/<sub>4</sub>)."
+},
+{
+"tresc":"Podaj przedział wewnątrz którego spełnione są nierówności: <sup>(6x + 2)</sup>/<sub>4</sub>  > 4x oraz <sup>(6x + 3)</sup>/<sub>4</sub> < 3x.",
+"temat":"Nierówności liniowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; &#8709;."
+},
+{
+"tresc":"Ile liczb całkowitych spełnia nierówność: <sup>3</sup>/<sub>7</sub> < <sup>x</sup>/<sub>3</sub> < <sup>20</sup>/<sub>21</sub>?",
+"temat":"Nierówności liniowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "1 liczba (1)."
+},
+{
+"tresc":"Rozwiąż nierówność: x√3 - 2x > √3 - 2.",
+"temat":"Nierówności liniowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin;; 1)."
+},
+{
+"tresc":"Rozwiąż nierówność: <sup>(16x - 4)</sup>/<sub>2</sub> &le; 3x + 4.",
+"temat":"Nierówności liniowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin;; <sup>6</sup>/<sub>5</sub>]."
+},
+{
+"tresc":"Rozwiąż nierówność: <sup>(4x - 6)</sup>/<sub>3</sub> &ge; x.",
+"temat":"Nierówności liniowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; [6; +&infin;)."
+},
+{
+"tresc":"Wyznacz dla jakiego przedziału spełniona jest nierówność: <sup>(x - 2)</sup>/<sub>(3 - x)</sub> &ge; 0.",
+"temat":"Nierówności wymierne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x &#8712; [2; 3)."
+},
+{
+"tresc":"Wyznacz, dla jakiego przedziału spełniona jest nierówność |x + 2| &le; 3.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; [-5; 1]."
+},
+{
+"tresc":"Wyznacz, dla jakiego przedziału spełniona jest nierówność |4 - x| > 6.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; -2) &#8746; (10; +&infin;)."
+},
+{
+"tresc":"Wyznacz, dla jakiego przedziału spełniona jest nierówność |x + 2| < 1.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-3; -1)."
+},
+{
+"tresc":"Wyznacz, dla jakiego przedziału spełniona jest nierówność |3x + 8| &ge; 7.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin; -5] &#8746; [ -<sup>1</sup>/<sub>3</sub>; +&infin;)."
+},
+{
+"tresc":"Wyznacz, dla jakiego przedziału spełniona jest nierówność |2x + 5| < 9.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-7; 2)."
+},
+{
+"tresc":"Wyznacz, dla jakiego przedziału spełniona jest nierówność |3x + 6| &le; 0.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Tylko dla x = -2."
+},
+{
+"tresc":"Wyznacz, dla jakiego przedziału spełniona jest nierówność <sup>(|2x + 6| - 5)</sup>/<sub>3</sub> &ge; 1.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin; -7] &#8746; [1; +&infin;)."
+},
+{
+"tresc":"Wyznacz, dla jakiego przedziału spełniona jest nierówność |<sup>(x - 4)</sup>/<sub>2</sub>| &le; 6.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; [-8; 16]."
+},
+{
+"tresc":"Wyznacz, dla jakiego przedziału spełniona jest nierówność |6x - 15| < 3.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x &#8712; (2; 3)."
+},
+{
+"tresc":"Ile jest liczb całkowitych spełniających nierówność |8x + 4| < 6?",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "2 liczby (-1, 0)."
+},
+{
+"tresc":"Ile jest liczb całkowitych spełniających nierówność |3x + 5| < 2?",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "1 liczba (-2)."
+},
+{
+"tresc":"Ile jest liczb całkowitych spełniających nierówność |123x + 815| > 1225?",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Nieskończenie wiele."
+},
+{
+"tresc":"Rozwiąż nierówność: 4 - |x + 3| < 2.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin;; -5) &#8746; (-1; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: 3|x + 3| - 7 < 10.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-<sup>26</sup>/<sub>3</sub>; <sup>8</sup>/<sub>3</sub>)."
+},
+{
+"tresc":"Rozwiąż nierówność: |x + 1| &ge; 3 - x.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x &#8712; [1; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: |x - 4| < x + 3.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; (<sup>1</sup>/<sub>2</sub>; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: |2x + 3| > x + 6.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; -3) &#8746; (3; +&infin;)."
+},
+{
+"tresc":"Rozwiązaniem jakiej nierówności postaci |x - a| < b lub |x - a| > b jest zbiór x &#8712; (-4; 6)?",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "|x - 1| < 5."
+},
+{
+"tresc":"Rozwiązaniem jakiej nierówności postaci |x - a| < b lub |x - a| > b jest zbiór x &#8712; [-7; 1]?",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "|x + 3| &le; 4."
+},
+{
+"tresc":"Rozwiązaniem jakiej nierówności postaci |x - a| < b lub |x - a| > b jest zbiór x &#8712; (-&infin;; -3) &#8746; (13 ; +&infin;)?",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "|x - 5| &ge; 8."
+},
+{
+"tresc":"Rozwiązaniem jakiej nierówności postaci |x - a| < b lub |x - a| > b jest zbiór x &#8712; (-&infin;; -2) &#8746; (10 ; +&infin;)?",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "|x - 4| &ge; 6."
+},
+{
+"tresc":"Wyznacz wszystkie liczby całkowite należące jednocześnie do zbioru będącego rozwiązaniem nierówności |2x - 4| > 8 oraz zbioru będącego rozwiązaniem nierówności |3x - 18| &le; 3.  ",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Jest jedna taka liczba: 7."
+},
+{
+"tresc":"Wyznacz wszystkie liczby całkowite należące jednocześnie do zbioru będącego rozwiązaniem nierówności |5x - 6| &le; 11 oraz zbioru będącego rozwiązaniem nierówności |3x - 4| &ge; 1. ",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Jest 5 takich liczb: -1, 0, 1, 2, 3."
+},
+{
+"tresc":"Rozwiąż nierówność: ||x - 2| - 3| < 7.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; (-8; 12)."
+},
+{
+"tresc":"Rozwiąż nierówność: ||x + 6| - 5| > 4.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; -15) &#8746; (-7; -5) &#8746; (3; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: |x - 2| < |x + 4|.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; (-1; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: |16 - x| + 4 < |x + 4|.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; (8; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: ||x - 3| - 2| > 3.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin;; -2) &#8746; (8; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: |x<sup>2</sup> - 4| > 12.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; -4) &#8746; (4; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: |<sup>2</sup>/<sub>(x - 1)</sub>| &le; 1.",
+"temat":"Nierówności z wartością bezwzględną",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin; -1] &#8746; [3; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: x<sup>2</sup> - 4x + 3 &ge; 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin; 1] &#8746; [3; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: -x<sup>2</sup> + 5x + 24 &ge; 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; [-3; 8]."
+},
+{
+"tresc":"Rozwiąż nierówność: x<sup>2</sup> - 4x < 12.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-2; 6)."
+},
+{
+"tresc":"Rozwiąż nierówność: 3x<sup>2</sup> - 3x + 4 &le; x<sup>2</sup> + 12x - 14.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (<sup>3</sup>/<sub>2</sub>; 6)."
+},
+{
+"tresc":"Rozwiąż nierówność: x<sup>2</sup> - 28x + 16 > - (16 + 2x<sup>2</sup>).",
+"temat":"Nierówności kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin;; <sup>4</sup>/<sub>3</sub>] &#8746; [8; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: -x(3 - x) &ge; 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin;; 0] &#8746; [3; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: x(6 - x) > 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (0; 6)."
+},
+{
+"tresc":"Rozwiąż nierówność: (x - 2)(x + 5) < 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-5; 2)."
+},
+{
+"tresc":"Rozwiąż nierówność: x<sup>2</sup> - 16 > 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin; -4) &#8746; (4; +&infin;)."
+},
+{
+"tresc":"Ile liczb całkowitych spełnia nierówność x<sup>2</sup> - 8 < 0?",
+"temat":"Nierówności kwadratowe",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "5 liczb (-2, -1, 0, 1, 2)."
+},
+{
+"tresc":"Ile liczb całkowitych spełnia nierówność 5x - 12 &le; <sup>x<sup>2</sup></sup>/<sub>2</sub>?",
+"temat":"Nierówności kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "3 liczby (4, 5, 6)."
+},
+{
+"tresc":"Jaka jest największa liczba całkowita spełniająca równanie (x + 3)<sup>2</sup> &le; x<sup>2</sup> - 9?",
+"temat":"Nierówności kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "-3."
+},
+{
+"tresc":"Rozwiąż nierówność: x<sup>2</sup> + 6x + 9 > 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; &#8477; - {-3}."
+},
+{
+"tresc":"Rozwiąż nierówność: x<sup>2</sup> - 4 &ge; 4x - 8. ",
+"temat":"Nierówności kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; &#8477;."
+},
+{
+"tresc":"Rozwiąż nierówność: (x + 1)(x - 3) &le; (2x + 1)(x - 4).",
+"temat":"Nierówności kwadratowe",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; <sup>(5 - √29)</sup>/<sub>2</sub>] &#8746; [<sup>(5 + √29)</sup>/<sub>2</sub>; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: (x - 4)(2x + 3) < (x - 8)(x + 4).",
+"temat":"Nierówności kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; &#8709;."
+},
+{
+"tresc":"Rozwiąż nierówność: 2x<sup>2</sup> - 3x - 19 &le; (x - 3)<sup>2</sup>.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; [-7; 4]."
+},
+{
+"tresc":"Rozwiąż nierówność: x(2x + 1) &ge; (x - 3)(x + 3) + 3.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x &#8712; &#8477;."
+},
+{
+"tresc":"Rozwiązaniem nierówności x<sup>2</sup> + 4 < 0 jest:<br> A. x &#8712; &#8477;<br> B. x &#8712; (-2; 2)<br> C. x &#8712; &#8709;<br> D. x &#8712; (-&infin;; -2) &#8746; (2; +&infin;) ",
+"temat":"Nierówności kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Rozwiązaniem nierówności 16 + x<sup>2</sup>  > 0 jest:<br> A. x &#8712; (-4; 4)<br> B. x &#8712; &#8477;<br> C. x &#8712; &#8709;<br> D. x &#8712; (-&infin;; -4) &#8746; (4; +&infin;) ",
+"temat":"Nierówności kwadratowe",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Rozwiąż nierówność: (x<sup>2</sup> - 2x + 3)(x - 5) > 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; (5; +&infin;) - wyrażenie kwadratowe zawsze dodatnie, więc o znaku decyduje wyrażenie liniowe."
+},
+{
+"tresc":"Rozwiąż nierówność: (-12 - 6x - x<sup>2</sup>)(x + 5) > 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; -3) - wyrażenie kwadratowe zawsze ujemne, więc znak zależy od wyrażenia liniowego."
+},
+{
+"tresc":"Rozwiąż nierówność: <sup>4x<sup>2</sup></sup>/<sub>3</sub> &le; x<sup>2</sup> + 4x - 12.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = 6."
+},
+{
+"tresc":"Rozwiąż nierówność: -4 &ge; x<sup>2</sup> + 4x.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = 2."
+},
+{
+"tresc":"Rozwiąż nierówność: <sup>(x - 2)</sup>/<sub>(x + 3)</sub> &ge; <sup>(x - 3)</sup>/<sub>(x + 2)</sub>.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; -3] &#8746; [-2; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: (x<sup>2</sup> - 4x + 3)(x - 6) &ge; 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; [1; 3] &#8746; [6; +&infin;)."
+},
+{
+"tresc":"Rozwiąż nierówność: (x<sup>2</sup> - 3x + 2)(x - 3) < 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x &#8712; (-&infin;; 1) &#8746; (2; 3)."
+},
+{
+"tresc":"Rozwiąż nierówność: x<sup>2</sup> - 36x + 12 < 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; (18 - √78; 18 + √78)."
+},
+{
+"tresc":"Rozwiąż nierówność: x<sup>2</sup> - 6x + 3 < 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; (3 - √6; 3 + √6)."
+},
+{
+"tresc":"Rozwiąż nierówność: 6 - x<sup>2</sup> + 8x > 0.",
+"temat":"Nierówności kwadratowe",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; (4 - √22; 4 + √22)."
+}
+
+
+
+]

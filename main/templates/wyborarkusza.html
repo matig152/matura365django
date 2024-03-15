@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Matura365 - wybór arkusza{% endblock %}
+{% block meta %}<link rel="stylesheet" href="{% static '/css/wyborarkusza.css' %}">{% endblock %}
+
+
+
+
+
+{% block content %}
+<div class="wrapper">
+    <div id="cont1" class="buttoncontainer">
+        <p id="parag1">Arkusz zgodny z formułą 2023. Zawiera 34 zadania.</p>
+        <img id="phot1" src="{% static '/imgs/formula2023.png' %}">
+        <a id="but1" href="/formula2023"><button>FORMUŁA 2023 &#9654;</button></a>
+        
+    </div>
+    <div id="cont2" class="buttoncontainer">
+        <p id="parag2">Arkusz zgodny z formułą 2015. Zawiera 36 zadań.</p>
+        <img id="phot2" src="{% static '/imgs/formula2015.png' %}">
+        <a id="but2" href="/formula2015"><button>FORMUŁA 2015 &#9654;</button></a>
+    </div>
+    <div id="cont3" class="buttoncontainer">
+        <p id="parag3">Po jednym zadaniu z każdego działu obecnego na maturze. Zawiera 11 zadań.</p>
+        <img id="phot3" src="{% static '/imgs/malamatura.png' %}">
+        <a id="but3" href="/malamatura"><button>MAŁA MATURA &#9654;</button></a>
+    </div>
+</div>
+{% endblock %}

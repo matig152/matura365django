@@ -1,0 +1,253 @@
+/*#region INITIAL PROPERTIES*/
+/*FONT*/
+@font-face{
+	font-family: bahnschrift;
+    src: url("fonts/BAHNSCHRIFT.eot");
+    src: url("fonts/BAHNSCHRIFT.TTF") format('truetype');
+    font-stretch: condensed;
+}
+/*BODY PROPERTIES*/
+*{box-sizing: border-box;}
+body{font-family: bahnschrift, sans-serif;font-size:2rem;margin:0;padding:0;color:black;background-color: white;}
+
+/*SCROLLBAR - opcjonalnie
+::-webkit-scrollbar {width: 10px;}
+::-webkit-scrollbar-track {background: #8f8c8c;}
+::-webkit-scrollbar-thumb {background: black;}
+::-webkit-scrollbar-thumb:hover {background: #555;}
+*/
+
+/*COLOR VARIABLES*/
+:root{
+    --primary:#000cbc;
+    --secondary: #209cfe;
+    --tertiary: #8cfffb;
+}
+
+/*#endregion*/
+
+/*#region DESKTOP*/
+nav{
+    z-index: 1;
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height: 70px;
+    background-color: var(--primary);
+    box-shadow: 1px 1px 2px black;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    height:100%;
+    width:auto;
+    display: flex;
+    gap: 10px;
+}
+.logo img{height:100%;}
+.logo a{
+    text-decoration: none;
+    color:white;
+    font-size: 45px;
+    display: grid;
+    place-items: center;
+}
+.navlinks{
+    height:100%;
+    width:auto;
+    display: flex;
+    flex-flow: row-reverse;
+}
+.navlinks a{
+    display: grid;
+    place-content: center;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    padding: 0 1vw;
+    transition: all .1s;
+}
+.navlinks a:hover{
+    background-color: var(--tertiary);
+    color:black; 
+}
+.mobileicon{display: none;}
+.mask{display:none}
+.sidenav{display: none;}
+
+/*FOOTER*/
+#logofooter{
+    height: 180px;
+    margin:auto;
+  }
+  #logofooter{grid-area:logo}
+  #infofoot{grid-area: info;}
+  #menufoot{grid-area: menu; }
+  #mobilnafoot{grid-area: mobilna;}
+  #copyright{grid-area: copy;font-stretch: condensed;}
+  .wrapperfoot{
+    max-width:1200px;
+    height:100%;
+    margin: 0 auto;
+    display: grid;
+  
+  grid-template:
+  'logo info menu mobilna'
+  'copy copy copy copy';
+  grid-template-columns: 30% 18% 18% 34%;
+  grid-template-rows: auto 40px;
+  }
+  p a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: lighter;
+  }
+  p a:hover{
+    color: black;
+  }
+  #play-badge{
+    height: 100px;
+  }
+footer{
+    font-family: bahnschrift;
+    font-stretch: condensed;
+    font-size: 30px;
+    bottom:0;
+    left:0;
+    margin-top: 10vh;
+    border-top: 2px solid #000cbc;
+    color: white;
+    width:100%;
+    height: 350px;
+    background-image: linear-gradient(to left, #000cbc , #209cfe)  
+}
+/*#endregion DESKTOP*/
+
+/*#region LAPTOP*/
+@media screen and (max-width: 1366px){
+    nav{height: 60px}
+    .logo{gap:4px}
+    .logo a{ font-size: 40px;}
+    .navlinks a{font-size: 25px;}
+
+      
+}
+/*#endregion LAPTOP*/
+
+/*#region MOBILE - VERTICAL*/
+@media screen and (max-width: 992px){
+    nav{height: 50px}
+    .logo{gap:6px;}
+    .logo a{font-size: 34px;}
+    .navlinks{display: none;}
+    .mask{
+        display: none;
+        opacity:0;
+        transition: all .5s;
+        position: fixed;
+        top:0;
+        height: 100vh;
+        width:100%;
+        background-color: #000000b6;
+    }
+    .mobileicon{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 24px;
+        margin: auto  0;
+        margin-right: 10px;
+        width:40px;
+    }
+    .mobilebar{
+        background-color: white;
+        width: 100%;
+        height:2px;
+        border-radius: 2px;
+    }
+    .sidenav{
+        transition: all .5s;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        position: fixed;
+        top:0;
+        left:0;
+        height: 100vh;
+        width:0;
+        padding: 0;
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+        font-size: 25px;
+        background: linear-gradient(150deg,var(--primary), var(--secondary));
+        overflow: hidden;
+        text-wrap: nowrap;
+    }
+    .mobilenavlinks{margin-left: 5px;padding-top:10vh;}
+    .sidenav a{color: white;text-decoration: none;}
+    .sidemobileprom{
+      margin-left: 5px;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 10vh;
+    }
+    .sidemobileprom p{margin:0;font-size: 20px;}
+    .sidemobileprom img{width: 200px;}
+
+
+    /*FOOTER*/
+    footer{
+        height: auto;
+        margin-top: 100px;
+    }
+    #logofooter{
+        display: none;
+    }
+      #infofoot{
+        font-size: 16px;
+        grid-area: info;
+        margin: 0 auto;
+        font-stretch: condensed;
+      }
+      #menufoot{
+        font-size: 16px;
+        grid-area: menu;
+        margin: 0 auto;
+        margin-bottom: 30px;
+        font-stretch: condensed;
+      }
+      #mobilnafoot{
+        grid-area: mobilna;
+        margin: auto;
+        text-align: center;
+      }
+      #play-badge{
+        width: 80%;
+        height: auto;
+      }
+      #copyright{grid-area: copy;padding-bottom:-10px;font-stretch: condensed;}
+      .wrapperfoot{
+        width:100%;
+        margin: auto;
+        font-stretch: condensed;
+        
+        display: grid; 
+        grid-template: 
+        'mobilna mobilna'
+        'info menu'
+        'copy copy';
+      }
+}
+/*#endregion MOBILE - VERTICAL*/
+
+/*#region MOBILE - HORIZONTAL*/
+@media screen and (orientation:landscape) and (max-device-height:600px){
+
+}
+/*#endregion MOBILE - HORIZONTAL*/
+
+/*#region ANIMATIONS*/
+
+/*#endregion ANIMATIONS*/

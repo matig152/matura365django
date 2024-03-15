@@ -1,0 +1,77 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static '/css/styles.css' %}">
+    <link rel="shortcut icon" type="image/x-icon" href="{% static 'imgs/ikonka.png'%}" />
+    <script src="{% static '/script.js' %}"></script>
+    <title>{% block title %}{% endblock %}</title>    
+    <meta name="keywords" content="Matura, Matematyka, Sprawdzian">
+	<meta name="description" content="Generator arkuszy maturalnych oraz sprawdzianów na poziomie matury podstawowej z matematyki.">
+	<meta name="author" content="Mateusz Grzelik">
+    {% block meta %}{% endblock %}
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <img src="{% static 'imgs/logo_do_bg_transp.png' %}">
+            <a href="/">MATURA365</a>
+        </div>
+        <div class="navlinks">
+            <a href="baza">PRZEGLĄDAJ BAZĘ &#9654;</a>
+			<a href="losujzadanie">LOSUJ ZADANIE &#9654;</a>
+			<a href="testparametry">GENERUJ TEST &#9654;</a>
+			<a href="wyborarkusza">GENERUJ ARKUSZ &#9654;</a>
+        </div>
+        <div class="mobileicon" onclick="mobilemenu()">
+            <div class="mobilebar"></div>
+            <div class="mobilebar"></div>
+            <div class="mobilebar"></div>
+        </div>
+    </nav>
+    <div class="mask" onclick="hideSideNav()"></div>
+    <div class="sidenav">
+        <div class="mobilenavlinks">
+            <a href="wyborarkusza">GENERUJ ARKUSZ &#9654;</a><br>
+            <a href="testparametry">GENERUJ TEST &#9654;</a><br>
+            <a href="losujzadanie">LOSUJ ZADANIE &#9654;</a><br>
+            <a href="baza">PRZEGLĄDAJ BAZĘ &#9654;</a><br>
+            <br>
+            <a href="/">STRONA GŁÓWNA &#9654;</a><br>
+            <a href="instrukcje">INSTRUKCJE &#9654;</a><br>
+        </div>
+        <div class="sidemobileprom">
+            <p>Pobierz wersję mobilną:</p>
+            <a><img src="{% static 'imgs/google-play-badge.png' %}"></img></a>
+        </div>
+    </div>
+    {% block content %}{% endblock %}
+
+    <footer>
+		<div class="wrapperfoot">
+			<img id="logofooter" src="{% static 'imgs/logo_do_bg1.png'%}">
+			<p id="infofoot"><br>INFORMACJE<br><br>
+				<a href="/">Strona główna</a><br>
+				<a href="instrukcje">Instrukcje</a><br>
+                <a href="kontakt">Kontakt</a>
+				<!--<a href="polityka.html">Polityka prywatności</a>-->
+			</p>
+			<p id="menufoot"><br>MENU<br><br>
+				<a href="wyborarkusza">Arkusze maturalne</a><br>
+				<a href="testparametry">Sprawdziany</a><br>
+				<a href="losujzadanie">Losowanie zadań</a><br>
+				<a href="baza">Baza zadań</a>
+			</p>
+			<p id="mobilnafoot">
+				<br>POBIERZ WERSJĘ MOBILNĄ:<br>
+				<a href="https://play.google.com/store/apps/details?id=com.grzelik.matura365.free&pcampaignid=web_share"><img id="play-badge" src="{% static 'imgs/google-play-badge.png' %}"></a><br><br>
+				<aa style="font-size: 20px;font-weight: lighter;">Kontakt: matura365@gmail.com</aa>
+			</p>
+			<p id="copyright" style="font-size: 15px;font-weight: 50;font-stretch: condensed; text-align: center;width: 100%;">©2023 matura365.pl. Wszelkie prawa zastrzeżone.</p>
+		</div>
+	</footer>
+
+</body>
+</html>

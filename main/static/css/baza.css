@@ -1,0 +1,98 @@
+@font-face{
+	font-family: bahnschrift;
+    src: url("fonts/BAHNSCHRIFT.eot");
+    src: url("fonts/BAHNSCHRIFT.TTF") format('truetype');
+    font-stretch: condensed;
+}
+
+.wrapper{
+    width: 1100px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 30px;
+}
+.container{
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 6px grey;
+    background-color: white;
+}
+.container p{
+    margin: 0;
+    padding: 0;
+}
+.container h5{
+    font-weight: 400;
+    margin: 0;
+    padding: 6px 10px;
+    color: #000cbc;
+    border-radius: 10px;
+    background-color: rgb(241, 241, 241);
+    box-shadow: 2px 2px 4px grey;
+}
+
+.bottomgrid{
+    border-top: 2px solid #000cbc;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 20px;
+    margin-top: 10px;
+    gap: 20px;
+}
+
+.bottomgrid button{
+    border-radius: 10px;
+    font-family: bahnschrift;
+    color: white;
+    font-size: 32px;
+    background-color: #000cbc;
+    border: 1px solid #000cbc;
+    height: 100%;
+    width: 100%;
+    transition: all .2s;
+    box-shadow: 2px 2px 2px grey;
+}
+.bottomgrid button:hover{
+    background-color: #8cfffb;
+    color: black;
+}
+
+
+.containerodpowiedz{
+    background: linear-gradient(#f0f0f0,#f3f3f3);
+    color: #535353;
+    border-radius: 20px;
+    padding: 0px 20px;
+    z-index: -1;
+    margin-top: -195px;
+    transform: scaleY(0);
+    transition: all .4s ease;
+    margin-bottom: 20px;
+    display: none;
+}
+
+/*#region LAPTOP*/
+@media screen and (max-width: 1366px){
+    .wrapper{width: 80%;}
+    .container p{font-size: 24px;}
+    .bottomgrid{height: 80px;}
+    .bottomgrid button{height: 60px;font-size: 24px;}
+    .bottomgrid h5{font-size: 20px;height: 60px;}
+    .containerodpowiedz{font-size: 24px;margin-bottom: 35px;}
+
+}
+/*#endregion LAPTOP*/
+
+
+/*#region MOBILE VERT*/
+@media screen and (max-width: 992px){
+    .wrapper{width: 95%;margin-top: 70px;}
+    .container p{font-size: 20px;}
+    .bottomgrid h5{font-size: 18px;height: 60px;}
+    .containerodpowiedz{font-size: 20px;margin-bottom: 80px;margin-top: -50px;}
+    .bottomgrid{grid-template-columns: 1fr;height:150px;}
+    .bottomgrid button{height: 50px;font-size: 22px;}
+}

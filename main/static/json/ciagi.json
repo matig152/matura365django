@@ -1,0 +1,725 @@
+[
+{
+"tresc":"Dany jest ciąg arytmetyczny o wyrazach a<sub>3</sub> = 12 oraz a<sub>8</sub> = 22. Wyznacz pierwszy wyraz oraz różnicę tego ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 8, r = 2"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny o wyrazach a<sub>5</sub> = 32 oraz a<sub>11</sub> = 74. Wyznacz pierwszy wyraz oraz różnicę tego ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 4, r = 7"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny o wyrazach a<sub>18</sub> = 20 oraz a<sub>33</sub> = 35. Wyznacz pierwszy wyraz oraz różnicę tego ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 3, r = 1"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny o wyrazach a<sub>12</sub> = 30 oraz a<sub>16</sub> = 38. Wyznacz pierwszy wyraz oraz różnicę tego ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 8, r = 2"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny o wyrazach a<sub>4</sub> = 11 oraz a<sub>7</sub> = 20. Wyznacz pierwszy wyraz oraz różnicę tego ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 2, r = 3"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny o wyrazach a<sub>11</sub> = 61 oraz a<sub>8</sub> = 43. Wyznacz pierwszy wyraz oraz różnicę tego ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 1, r = 6"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny o wyrazach a<sub>6</sub> = 25 oraz a<sub>9</sub> = 34. Wyznacz pierwszy wyraz oraz różnicę tego ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 10, r = 3"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny o wyrazach a<sub>3</sub> = 10 oraz a<sub>12</sub> = 37. Wyznacz pierwszy wyraz oraz różnicę tego ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 4, r = 3"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny o wyrazach a<sub>28</sub> = 35 oraz a<sub>40</sub> = 47. Wyznacz pierwszy wyraz oraz różnicę tego ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 8, r = 1"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny o wyrazach a<sub>4</sub> = 18 oraz a<sub>9</sub> = 28. Wyznacz pierwszy wyraz oraz różnicę tego ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 12, r = 2"
+},
+{
+"tresc":"Oblicz trzynasty wyraz ciągu arytmetycznego 14, 17, 20, ... . Podaj wzór na jego n-ty wyraz",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a<sub>13</sub> = 50, a<sub>n</sub> = 3n + 11"
+},
+{
+"tresc":"Oblicz ósmy wyraz ciągu arytmetycznego 4, 7, 10, ... . Podaj wzór na jego n-ty wyraz.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a<sub>8</sub> = 25, a<sub>n</sub> = 3n + 1"
+},
+{
+"tresc":"Oblicz dwunasty wyraz ciągu arytmetycznego 12, 14, 16, ... . Podaj wzór na jego n-ty wyraz.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a<sub>12</sub> = 34, a<sub>n</sub> = 2n + 10"
+},
+{
+"tresc":"Oblicz siódmy wyraz ciągu arytmetycznego 10, 7, 4, ... . Podaj wzór na jego n-ty wyraz",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a<sub>7</sub> = -8, a<sub>n</sub> = 13 - 3n"
+},
+{
+"tresc":"Oblicz piętnasty wyraz ciągu arytmetycznego 40, 38, 36, ... . Podaj wzór na jego n-ty wyraz.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a<sub>15</sub> = 12, a<sub>n</sub> = 42 - 2n"
+},
+{
+"tresc":"Ciąg arytmetyczny dany jest wzorem a<sub>n</sub> = 28 - 2n. Oblicz ile ma wyrazów dodatnich. Który jego wyraz jest równy zero?",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Ciąg ma 13 wyrazów dodatnich, a<sub>14</sub> = 0"
+},
+{
+"tresc":"Ciąg arytmetyczny dany jest wzorem a<sub>n</sub> = 40 - 8n. Oblicz ile ma wyrazów nieujemnych. Który jego wyraz jest równy zero?",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Ciąg ma 4 wyrazy nieujemne, a<sub>5</sub> = 0"
+},
+{
+"tresc":"Ciąg arytmetyczny dany jest wzorem a<sub>n</sub> = 36 - 5n. Oblicz ile ma wyrazów dodatnich.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Ciąg ma 7 wyrazów dodatnich."
+},
+{
+"tresc":"Ciąg arytmetyczny dany jest wzorem a<sub>n</sub> = 5n - 18. Oblicz ile ma wyrazów ujemnych.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Ciąg ma 3 wyrazy ujemne."
+},
+{
+"tresc":"Ciąg arytmetyczny dany jest wzorem a<sub>n</sub> = 2n - 40. Oblicz ile ma wyrazów niedodatnich.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Ciąg ma 20 wyrazów niedodatnich."
+},
+{
+"tresc":"Ciąg dany jest wzorem a<sub>n</sub> = <sup>(n+3)</sup>&frasl;<sub>12</sub>. Oblicz a<sub>5</sub>.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "a<sub>5</sub> = <sup>2</sup>&frasl;<sub>3</sub> "
+},
+{
+"tresc":"Ciąg dany jest wzorem a<sub>n</sub> = <sup>36</sup>&frasl;<sub>2n</sub>. Oblicz a<sub>9</sub>.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "a<sub>9</sub> = 2."
+},
+{
+"tresc":"Ciąg dany jest wzorem a<sub>n</sub> = 2n<sup>2</sup> + 3n - 8. Oblicz a<sub>3</sub>.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "<p>a<sub>3</sub> = 19."
+},
+{
+"tresc":"Ciąg dany jest wzorem a<sub>n</sub> = n<sup>2</sup> - 3n - 10. Oblicz a<sub>4</sub>.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>4</sub> = -6."
+},
+{
+"tresc":"Ciąg dany jest wzorem a<sub>n</sub> = n<sup>2</sup> - 3n - 10.  Oblicz ile ma wyrazów ujemnych, i podaj ich indeksy. Który wyraz jest równy 0?",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Ciąg ma cztery wyrazy ujemne: a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, a<sub>4</sub>. Wyraz a<sub>5</sub> = 0."
+},
+{
+"tresc":"Ciąg dany jest wzorem a<sub>n</sub> = -n<sup>2</sup> + 3n + 4.  Oblicz ile ma wyrazów dodatnich, i podaj ich indeksy. Który wyraz jest równy 0?",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Ciąg ma trzy wyrazy dodatnie: a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>. Wyraz a<sub>4</sub> = 0."
+},
+{
+"tresc":"Którym wyrazem ciągu a<sub>n</sub> = 12 + 2n jest liczba 72?",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Liczba 72 jest 30-tym wyrazem ciągu."
+},
+{
+"tresc":"Którym wyrazem ciągu a<sub>n</sub> = 20 - 5n jest liczba -40?",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Liczba -40 jest 12-tym wyrazem ciągu"
+},
+{
+"tresc":"Którym wyrazem ciągu a<sub>n</sub> = 1 - <sup>2</sup>&frasl;<sub>n</sub> jest liczba <sup>3</sup>&frasl;<sub>5</sub>?",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Liczba <sup>3</sup>&frasl;<sub>5</sub> jest piątym wyrazem ciągu."
+},
+{
+"tresc":"Którym wyrazem ciągu a<sub>n</sub> = n<sup>2</sup> - 3n - 5 jest liczba 5?",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Liczba 5 jest piątym wyrazem ciągu"
+},
+{
+"tresc":"Wykaż, że ciąg a<sub>n</sub> = 12 - 2n jest arytmetyczny.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "r = a<sub>n+1</sub> - a<sub>n</sub> = -2,  różnica niezależna od n, a więc ciąg arytmetyczny."
+},
+{
+"tresc":"Sprawdź, czy ciąg a<sub>n</sub> = <sup>(n-√2)</sup>&frasl;<sub>3</sub> jest arytmetyczny.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "r = a<sub>n+1</sub> - a<sub>n</sub> = <sup>1</sup>&frasl;<sub>3</sub>,  różnica niezależna od n, a więc ciąg arytmetyczny."
+},
+{
+"tresc":"Sprawdź, czy ciąg a<sub>n</sub> = 1 - <sup>2</sup>&frasl;<sub>n</sub> jest arytmetyczny.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "r = a<sub>n+1</sub> - a<sub>n</sub> = <sup>2</sup>&frasl;<sub>n(n+1)</sub>,  różnica zależna od n, a więc ciąg nie jest arytmetyczny."
+},
+{
+"tresc":"Sprawdź, czy ciąg a<sub>n</sub> = log<sub>2</sub>2<sup>n</sup> jest arytmetyczny.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "r = a<sub>n+1</sub> - a<sub>n</sub> = 1,  różnica niezależna od n, a więc ciąg jest arytmetyczny."
+},
+{
+"tresc":"Sprawdź, czy  ciąg a<sub>n</sub> = <sup>n+1</sup>&frasl;<sub>n</sub> jest monotoniczny.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "r = a<sub>n+1</sub> - a<sub>n</sub> = <sup>-1</sup>&frasl;<sub>n(n+1)</sub> < 0, ponieważ n oraz n+1 to liczby naturalne dodatnie. Zatem ciąg jest malejący."
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu a<sub>n</sub> = <sup>3n+1</sup>&frasl;<sub>2</sub>.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "r = a<sub>n+1</sub> - a<sub>n</sub> = <sup>3</sup>&frasl;<sub>2</sub> > 0, zatem ciąg jest rosnący."
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu a<sub>n</sub> = 18 - 2n.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "r = a<sub>n+1</sub> - a<sub>n</sub> = -2 < 0, zatem ciąg jest malejący."
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu a<sub>n</sub> = 14 + 3n.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "r = a<sub>n+1</sub> - a<sub>n</sub> = 3 > 0, zatem ciąg jest rosnący."
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu a<sub>n</sub> = 10 + n.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "r = a<sub>n+1</sub> - a<sub>n</sub> = 1 > 0, zatem ciąg jest rosnący."
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu a<sub>n</sub> = <sup>(-1)<sup>n</sup></sup>&frasl;<sub>n</sub>.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "r = a<sub>n+1</sub> - a<sub>n</sub> = (-1)<sup>n</sup> · (<sup>-2n-1</sup>&frasl;<sub>(n+1)n</sub>) ,  znak zależny od n, zatem ciąg nie jest monotoniczny."
+},
+{
+"tresc":"Dany jest ciąg a<sub>n</sub> = 10n - 36.<br>a) Oblicz, ile wyrazów ujemnych ma ten ciąg<br>b) Udowodnij, że ciąg jest arytmetyczny<br>c) Oblicz 11 wyraz ciągu",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a) Ciąg ma 3 wyrazy ujemne<br>b) r = 10,  niezależne od n<br>c) a<sub>11</sub> = 74"
+},
+{
+"tresc":"Dany jest ciąg a<sub>n</sub> = 12 - 4n.<br>a) Oblicz, ile wyrazów dodatnich ma ten ciąg<br>b) Udowodnij, że ciąg jest arytmetyczny<br>c) Oblicz 16 wyraz ciągu",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a) Ciąg ma 2 wyrazy dodatnie<br>b) r = -4,  niezależne od n<br>c) a<sub>16</sub> = -52"
+},
+{
+"tresc":"O ciągu arytmetycznym wiadomo, że a<sub>2</sub> + a<sub>6</sub> = 0, oraz  a<sub>3</sub> + a<sub>8</sub> = -12. Wyznacz ciąg arytmetyczny i wypisz jego 5 pierwszych wyrazów.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 12, r = -4. Pierwsze 5 wyrazów: 12, 8, 4, 0, -4."
+},
+{
+"tresc":"O ciągu arytmetycznym wiadomo, że a<sub>1</sub> + a<sub>4</sub> = 9, oraz  a<sub>8</sub> - a<sub>6</sub> = a<sub>3</sub>. Wyznacz ciąg arytmetyczny i wypisz jego 6 pierwszych wyrazów.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 0, r = 3. Pierwsze 6 wyrazów: 0, 3, 6, 9, 12, 15."
+},
+{
+"tresc":"O ciągu arytmetycznym wiadomo, że a<sub>4</sub> =  - a<sub>6</sub>, oraz  a<sub>2</sub> - a<sub>1</sub> = -12. Wyznacz ciąg arytmetyczny i wypisz jego 4 pierwsze wyrazy.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 48 0, r = -12. Pierwsze 6 wyrazów: 48, 36, 24, 12."
+},
+{
+"tresc":"O ciągu arytmetycznym wiadomo, że a<sub>1</sub> + a<sub>3</sub> = 4, oraz  a<sub>4</sub> +2√3 = a<sub>2</sub>. Wyznacz ciąg arytmetyczny i wypisz jego 4 pierwsze wyrazy.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 2 + √3, r = -√3. Pierwsze 4 wyrazy: 2 + √3 , 2, 2 - √3, 2 - 2√3."
+},
+{
+"tresc":"O ciągu arytmetycznym wiadomo, że a<sub>3</sub> + a<sub>6</sub> = 5, oraz  a<sub>1</sub> + a<sub>4</sub> = 3. Wyznacz ciąg arytmetyczny i wypisz jego 3 pierwsze wyrazy.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<sub>1</sub> = <sup>3</sup>&frasl;<sub>4</sub>, r = <sup>1</sup>&frasl;<sub>2</sub>. Pierwsze 4 wyrazy: <sup>3</sup>&frasl;<sub>4</sub>, 1 <sup>1</sup>&frasl;<sub>4</sub>, 1 <sup>3</sup>&frasl;<sub>4</sub>."
+},
+{
+"tresc":"Oblicz sumę pierwszych 15 wyrazów ciągu, gdzie r = -2 i a<sub>3</sub> = 12.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "S<sub>15</sub> = 15."
+},
+{
+"tresc":"Oblicz sumę pierwszych 10 wyrazów ciągu, gdzie r = -10 i a<sub>5</sub> = 50.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "S<sub>10</sub> = 450."
+},
+{
+"tresc":"Oblicz sumę pierwszych 20 wyrazów ciągu, gdzie a<sub>1</sub> = 10 i a<sub>5</sub> = 30.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "S<sub>20</sub> = 1150."
+},
+{
+"tresc":"Oblicz sumę pierwszych 40 wyrazów ciągu, gdzie a<sub>1</sub> = 12 oraz r = -2.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "S<sub>40</sub> = -1080."
+},
+{
+"tresc":"Oblicz sumę pierwszych 16 wyrazów ciągu, gdzie a<sub>1</sub> = 3 oraz r = 4.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "S<sub>16</sub> = 495."
+},
+{
+"tresc":"Oblicz sumę pierwszych 10 wyrazów ciągu danego wzorem a<sub>n</sub> = 15 - 2n",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "S<sub>10</sub> = 40."
+},
+{
+"tresc":"Oblicz sumę pierwszych 12 wyrazów ciągu danego wzorem a<sub>n</sub> = 4 + 2n.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "S<sub>12</sub> = 204."
+},
+{
+"tresc":"Między liczby 15 i -18 wstaw 10  liczb tak, aby powstał ciąg arytmetyczny.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "r = -3, Powstały ciąg: 15, 12, 9, 6, 3, 0, -3, -6, -9, -12, -15, -18."
+},
+{
+"tresc":"Między liczby 3 i 24 wstaw 6 liczb tak, aby powstał ciąg arytmetyczny.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "r = 3, Powstały ciąg: 3, 6, 9, 12, 15, 18, 21, 24."
+},
+{
+"tresc":"Suma 9 początkowych wyrazów ciągu arytmetycznego wynosi 180. Wiadomo także, że a<sub>4</sub> = 12. Wyznacz ten ciąg.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = -12 , r = 8."
+},
+{
+"tresc":"Suma 7 początkowych wyrazów ciągu arytmetycznego wynosi 0. Wiadomo także, że a<sub>5</sub> = 12. Wyznacz ten ciąg.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = -36 , r = 12."
+},
+{
+"tresc":"Suma 9 początkowych wyrazów ciągu arytmetycznego wynosi 225. Wiadomo także, że a<sub>6</sub> = 30. Wyznacz ten ciąg.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 5, r = 5."
+},
+{
+"tresc":"Suma 16 początkowych wyrazów ciągu arytmetycznego wynosi 1408. Wiadomo także, że a<sub>16</sub> = 148. Wyznacz ten ciąg.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 28, r = 8."
+},
+{
+"tresc":"Ciąg dany jest wzorem a<sub>n</sub> = 7 + 2n. Ile początkowych wyrazów należy z  sumować aby otrzymać liczbę 240?",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "12 wyrazów."
+},
+{
+"tresc":"Dany jest ciąg, gdzie a<sub>4</sub> = 15 i a<sub>6</sub> = 21. Ile początkowych wyrazów należy zsumować aby otrzymać liczbę 8775?",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "75 wyrazów."
+},
+{
+"tresc":"Suma n początkowych wyrazów ciągu arytmetycznego wyraża się wzorem S<sub>n</sub> = 2n<sup>2</sup> + 2n. Wyznacz wzór na n-ty wyraz tego ciągu. ",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": " a<sub>n</sub> = S<sub>n</sub> - S<sub>n-1</sub> = 4n."
+},
+{
+"tresc":"Suma n początkowych wyrazów ciągu arytmetycznego wyraża się wzorem S<sub>n</sub> = n<sup>2</sup> + n. Wyznacz wzór na n-ty wyraz tego ciągu. ",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "a<sub>n</sub> = S<sub>n</sub> - S<sub>n-1</sub> = 2n."
+},
+{
+"tresc":"Suma n początkowych wyrazów ciągu arytmetycznego wyraża się wzorem S<sub>n</sub> = <sup>21n</sup>&frasl;<sub>2</sub> - <sup>3n<sup>2</sup></sup>&frasl;<sub>2</sub>. Wyznacz wzór na n-ty wyraz tego ciągu. ",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "a<sub>n</sub> = S<sub>n</sub> - S<sub>n-1</sub> = 12n - 3."
+},
+{
+"tresc":"Oblicz sumę 1 + 2 + 3 + ... + 50. ",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "S<sub>50</sub> = 1275"
+},
+{
+"tresc":"Oblicz sumę 4 + 12 + 20 + ... + 316.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "S<sub>40</sub> = 6400"
+},
+{
+"tresc":"Oblicz sumę 1 + 8 + 15 + ... + 169.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "S<sub>25</sub> = 2125"
+},
+{
+"tresc":"Liczby x - 3, 8, 3x + 3 są kolejnymi wyrazami ciągu arytmetycznego. Oblicz x oraz różnicę ciągu. ",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = 4, r = 7."
+},
+{
+"tresc":" Liczby 2x + 1, 4x + 1, 19 są kolejno wyrazami a<sub>1</sub>, a<sub>2</sub>  i a<sub>3</sub> ciągu arytmetycznego. Wyznacz wzór na n-ty wyraz ciągu.  ",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a<sub>n</sub> = 6n + 1"
+},
+{
+"tresc":"Liczby x + 3, 11, x + 7 są kolejno wyrazami ciągu arytmetycznego. Wyznacz x oraz wyrazy ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x = 6, wyrazy: 9, 11, 13."
+},
+{
+"tresc":" Oblicz sumę 12 początkowych wyrazów ciągu arytmetycznego, w którym a<sub>5</sub> = 2a<sub>2</sub> + 1 i a<sub>3</sub> = 9.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "S<sub>12</sub> = 192"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny, w którym wyraz piąty jest czterokrotnie większy od pierwszego, a czwarty jest o 6 większy od drugiego.<br> a) Wyznacz pierwszy wyraz ciągu oraz różnicę.<br>b) Wyznacz wzór na n-ty wyraz ciągu.<br>c) Oblicz sumę 10 początkowych wyrazów ciągu",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "a) a<sub>1</sub> = 4, r = 3<br>b) a<sub>n</sub> = 3n + 1<br> c) S<sub>10</sub> = 175"
+},
+{
+"tresc":"Dany jest rosnący ciąg arytmetyczny, w którym wyraz siódmy jest dwukrotnością czwartego, a piąty jest kwadratem drugiego.<br> a) Wyznacz pierwszy wyraz ciągu oraz różnicę.<br>b) Wyznacz wzór na n-ty wyraz ciągu.<br>c) Oblicz sumę 28 początkowych wyrazów ciągu. ",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "a) a<sub>1</sub> = 0, r = 4<br>b) a<sub>n</sub> = 4n - 4<br> c) S<sub>28</sub> = 1512"
+},
+{
+"tresc":"W ciągu arytmetycznym wyraz piąty jest 11 razy większy od pierwszego, a czwarty o 10 wiekszy od drugiego.<br> a) Wyznacz pierwszy wyraz ciągu oraz różnicę.<br>b) Wyznacz wzór na n-ty wyraz ciągu.<br>c) Oblicz sumę 13 początkowych wyrazów ciągu.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a) a<sub>1</sub> = 2, r = 5<br>b) a<sub>n</sub> = 5n - 3<br> c) S<sub>13</sub> = 416"
+},
+{
+"tresc":" Dany jest ciąg arytmetyczny określony wzorem a<sub>n</sub> = 3n - 10. Oblicz sumę:<br>a) Dziesięciu pierwszych wyrazów o numerach nieparzystych<br>b) Szesnastu początkowych wyrazów o numerach parzystych",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "a) S<sub>10 (n nieparzyste)</sub> = 200 <br>b) S<sub>16 (n parzyste)</sub> = 656"
+},
+{
+"tresc":"Dany jest ciąg arytmetyczny, gdzie a<sub>1</sub> = 5 i r = 8. Oblicz sumę:<br>a) Ośmiu pierwszych wyrazów o numerach nieparzystych<br>b) Pięciu początkowych wyrazów o numerach parzystych. <br>c) Wyrazów od a<sub>10</sub> do a<sub>15</sub>.",
+"temat":"Ciągi Arytmetyczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a) S<sub>8 (n nieparzyste)</sub> = 488 <br>b) S<sub>5 (n parzyste)</sub> = 225<br>c) S<sub>15</sub> - S<sub>9</sub> = 582"
+},
+{
+"tresc":"Dany jest rosnący ciąg geometryczny, gdzie a<sub>4</sub> = 16 oraz a<sub>6</sub> = 64. Wyznacz ten ciąg. ",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 2, q = 2."
+},
+{
+"tresc":"Dany jest malejący ciąg geometryczny, gdzie a<sub>4</sub> = 8 oraz a<sub>8</sub> = <sup>1</sup>&frasl;<sub>2</sub>. Wyznacz ten ciąg. ",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 64, q = <sup>1</sup>&frasl;<sub>2</sub>."
+},
+{
+"tresc":"Dany jest rosnący ciąg geometryczny, gdzie a<sub>5</sub> = 558 oraz a<sub>3</sub> = 62. Wyznacz ten ciąg. ",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 7, q = 3."
+},
+{
+"tresc":"Dany jest malejący ciąg geometryczny, gdzie a<sub>4</sub> = <sup>4</sup>&frasl;<sub>27</sub> oraz a<sub>2</sub> = <sup>4</sup>&frasl;<sub>3</sub>. Wyznacz ten ciąg. ",
+"temat":"Ciągi Geometryczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a<sub>1</sub> = 4, q = <sup>1</sup>&frasl;<sub>3</sub>."
+},
+{
+"tresc":"Dany jest malejący ciąg geometryczny, gdzie a<sub>6</sub> = <sup>64</sup>&frasl;<sub>81</sub> oraz a<sub>3</sub> = <sup>8</sup>&frasl;<sub>3</sub>. Wyznacz ten ciąg. ",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 6, q = <sup>2</sup>&frasl;<sub>3</sub>."
+},
+{
+"tresc":"Dany jest malejący ciąg geometryczny, gdzie a<sub>4</sub> = 9 oraz a<sub>6</sub> = 1. Wyznacz ten ciąg.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 243, q = <sup>1</sup>&frasl;<sub>3</sub>."
+},
+{
+"tresc":"Dany jest malejący ciąg geometryczny, gdzie a<sub>5</sub> = 3072 oraz a<sub>2</sub> = 48. Wyznacz ten ciąg. ",
+"temat":"Ciągi Geometryczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> = 12, q = 4."
+},
+{
+"tresc":"Dany jest malejący ciąg geometryczny, gdzie a<sub>5</sub> = 1875 oraz a<sub>3</sub> = 75. Wyznacz ten ciąg.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": " a<sub>1</sub> = 3, q = 5."
+},
+{
+"tresc":"Wykaż, że ciąg dany wzorem a<sub>n</sub> = (<sup>1</sup>&frasl;<sub>2</sub>)<sup>n</sup> jest geometryczny.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "q = <sup>1</sup>&frasl;<sub>2</sub>, niezależne od n, zatem jest geometryczny."
+},
+{
+"tresc":"Wykaż, że ciąg dany wzorem a<sub>n</sub> = 4 · (<sup>2</sup>&frasl;<sub>3</sub>)<sup>n</sup> jest geometryczny.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "q = <sup>2</sup>&frasl;<sub>3</sub>, niezależne od n, zatem jest geometryczny."
+},
+{
+"tresc":"Wykaż, że ciąg dany wzorem a<sub>n</sub> = 3<sup>6 - n</sup> jest geometryczny.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "q = <sup>1</sup>&frasl;<sub>3</sub>, niezależne od n, zatem jest geometryczny."
+},
+{
+"tresc":"Wykaż, że ciąg dany wzorem a<sub>n</sub> = 2<sup>7 - n</sup> jest geometryczny.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "q = <sup>1</sup>&frasl;<sub>2</sub>, niezależne od n, zatem jest geometryczny."
+},
+{
+"tresc":"Sprawdź, czy ciąg dany wzorem a<sub>n</sub> = n<sup>2</sup> jest geometryczny.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "q = 1 + <sup>2</sup>&frasl;<sub>n</sub> + <sup>1</sup>&frasl;<sub>n<sup>2</sup></sub>, zależne od n, zatem nie jest geometryczny."
+},
+{
+"tresc":"Sprawdź, czy ciąg dany wzorem a<sub>n</sub> = log<sub>3</sub>3<sup>n</sup> jest geometryczny.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "q =  <sup>n+1</sup>&frasl;<sub>n</sub>, zależne od n, zatem nie jest geometryczny"
+},
+{
+"tresc":"Oblicz ósmy wyraz  ciągu 2, 4, 8, 16 , ... . ",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "a<sub>8</sub> = 256 "
+},
+{
+"tresc":"Oblicz dwunasty wyraz  ciągu 64, 32, 16, 8 , ... . ",
+"temat":"Ciągi Geometryczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a<sub>12</sub> = <sup>1</sup>&frasl;<sub>32</sub>"
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu danego wzorem a<sub>n</sub> = 3<sup>4 - n</sup>.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a<sub>1</sub> > 0 oraz q ∈ (0, 1), zatem ciąg jest malejący."
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu danego wzorem a<sub>n</sub> = 1<sup>n + 2</sup>.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "a<sub>1</sub> = 1 oraz q = 1, zatem ciąg jest stały."
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu danego wzorem a<sub>n</sub> = 2<sup><sup>n </sup>&frasl;<sub>2</sub></sup>.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "a<sub>1</sub> > 0 oraz q > 1, zatem ciąg jest rosnący."
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu, gdzie  a<sub>1</sub> = 3 i q = 2.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "a<sub>1</sub> > 0 oraz q > 1, zatem ciąg jest rosnący"
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu, gdzie  a<sub>1</sub> = 4 i q = -2.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "a<sub>1</sub> > 0 oraz q < 0, zatem ciąg jest niemonotoniczny."
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu, gdzie  a<sub>1</sub> = -3 i q = -1. ",
+"temat":"Ciągi Geometryczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> < 0 oraz q < 0, zatem ciąg jest niemonotoniczny."
+},
+{
+"tresc":"Zbadaj monotoniczność ciągu geometrycznego, gdzie  a<sub>3</sub> = -<sup>1</sup>&frasl;<sub>2</sub> i a<sub>6</sub> = -<sup>1</sup>&frasl;<sub>16</sub>.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a<sub>1</sub> < 0 oraz q ∈ (0, 1), zatem ciąg jest rosnący."
+},
+{
+"tresc":"Liczby <sup>x</sup>&frasl;<sub>2</sub>,  2x, 192 są kolejnymi wyrazami rosnącego ciągu geometrycznego. Oblicz iloraz tego ciągu oraz x. ",
+"temat":"Ciągi Geometryczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "q = 4, x = 24."
+},
+{
+"tresc":"Liczby 3,  2x - 1, 10x - 5 są kolejnymi wyrazami rosnącego ciągu geometrycznego. Oblicz iloraz tego ciągu oraz x",
+"temat":"Ciągi Geometryczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "q = 8, x = 8."
+},
+{
+"tresc":"Liczby √x,  x, x√2 są kolejnymi wyrazami rosnącego ciągu geometrycznego. Oblicz iloraz tego ciągu oraz x.",
+"temat":"Ciągi Geometryczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "q = √2, x = 2."
+}
+
+
+]

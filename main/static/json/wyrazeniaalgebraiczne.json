@@ -1,0 +1,633 @@
+[
+{
+"tresc":"Doprowadź do najprostszej postaci, wyłącz czynnik przed nawias o ile to możliwe: 3a - 2b + 8c - 12b + 7 - c + 4a.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "7 &middot; (a - 2b + c + 1)."
+},
+{
+"tresc":"Doprowadź do najprostszej postaci, wyłącz czynnik przed nawias o ile to możliwe: 12x + 4z - 6y + 12 - 6x + 9y - z - 9.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "3 &middot; (2x + z + y + 1)."
+},
+{
+"tresc":"Doprowadź do najprostszej postaci, wyłącz czynnik przed nawias o ile to możliwe: 12x<sup>2</sup>y - 16xy<sup>2</sup> + 13xy - 6xy<sup>2</sup> + 11xy - 4x<sup>2</sup>y.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "2xy &middot; (4x - 11y + 12)."
+},
+{
+"tresc":"Doprowadź do najprostszej postaci, wyłączając czynnik przed nawias o ile to możliwe: (x - 3)(x + 2) - (x + 3)(x - 6).",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "2 &middot; (x + 6)."
+},
+{
+"tresc":"Doprowadź do najprostszej postaci, wyłączając czynnik przed nawias o ile to możliwe: (2x - 3)(x - 2) + (x + 6)(x - 3).",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "3x<sup>2</sup> - 4x - 12."
+},
+{
+"tresc":"Doprowadź do najprostszej postaci, wyłącz czynnik przed nawias, o ile to możliwe: <sup>2</sup>/<sub>3</sub>&middot;(9x - 15) - <sup>2</sup>/<sub>12</sub>&middot;(6x<sup>2</sup> + 12x - 60).",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "x(4-x)."
+},
+{
+"tresc":"Liczba 2 &middot; (&radic;2 - 6) + <sup>3</sup>/<sub>12</sub>(12 - 8&radic;2) jest:<br>A. dodatnia<br>B. niewymierna<br>C. nieujemna<br>D. całkowita.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Liczba <sup>(&radic;2 + 6)</sup>/<sub>4</sub> - <sup>(2 + &radic;2)</sup>/<sub>3</sub> jest:<br>A. dodatnia<br>B. wymierna<br>C. ujemna<br>D. równa 0.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Dane są dwa wielomiany: W(x) = 4x<sup>3</sup> + 12x<sup>2</sup> - 8x oraz P(x) = 4x<sup>2</sup> - 12x. Przedstaw wielomian <sup>W(x)</sup>/<sub>P(x)</sub> w najprostszej postaci.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "(x<sup>2</sup> + 3x - 2)</sup>/<sub>(x - 3)."
+},
+{
+"tresc":"Dane są dwa wielomiany: Q(x) = 2x<sup>3</sup>  - 7x oraz P(x) = 3x<sup>2</sup> - x. Przedstaw wielomian Q(x)&middot;P(x) w najprostszej postaci. Wyłącz czynnik przed nawias.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "x<sup>2</sup> &middot; (6x<sup>3</sup> - 2x<sup>2</sup> - 21x + 7)  "
+},
+{
+"tresc":"Liczba <sup>12</sup>/<sub>&radic;3</sub> jest równa:<br>A. 3&radic;3 <br>B. 2 <br>C. 4&radic;3<br>D. 12&radic;3.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Liczba <sup>(4 - &radic;3)</sup>/<sub>(4 + &radic;3)</sub> jest równa:<br>A. 1<br>B. -1<br>C. 19 - 8&radic;3<br>D. <sup>(19 - 8&radic;3)</sup>/<sub>13</sub>.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Liczba <sup>(1 + &radic;2)</sup>/<sub>(1 - &radic;2)</sub> jest:<br>A. dodatnia<br>B. wymierna<br>C. ujemna<br>D. równa 1.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Liczba &radic;19 - &radic;18 jest w przybliżeniu równa 0,116. Liczba <sup>1</sup>/<sub>(&radic;19 + &radic;18)</sub> jest w przybliżeniu równa:<br>A. 8,621<br>B. 1<br>C. 8,602<br>D. 0,116.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Liczba <sup>2</sup>/<sub>(&radic;6 - 2)</sub> - <sup>6</sup>/<sub>&radic;6</sub> jest<br>A. niewymierna<br>B. wymierna<br>C. ujemna<br>D. równa 2<sup>1</sup>/<sub>3</sub>.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Wartość liczbowa wyrażenia <sup>&#8731(4x<sup>2</sup> - 9)</sup>/<sub>2y</sub> dla x = 3 oraz y = <sup>3</sup>/<sub>2</sub> ma wartość:<br>A. 2<br>B. 1<br>C. <sup>1</sup>/<sub>2</sub> <br>D. <sup>3</sup>/<sub>2</sub>.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Wartość liczbowa wyrażenia &#8731;(4a<sup>2</sup>) -&radic;(b<sup>4</sup>) dla a = &radic;2 oraz b = &radic;3 ma wartość:<br>A. 1<br>B. -1<br>C. 3&radic;3 <br>D. 2&radic;3.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Dane są wyrażenia a = 2x<sup>2</sup> - 3x oraz b = 4 - x. Iloczyn a&middot;b jest równy:<br>A.  2x<sup>2</sup> - 2x - 4<br>B. 2x<sup>2</sup> - 4x + 4<br>C. 11x<sup>2</sup> - 2x<sup>3</sup> -12x  <br>D. 5x<sup>2</sup> - 2x<sup>3</sup> -12x. ",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Wartość wyrażenia <sup>1</sup>/<sub>(&radic;5 - 1)</sub> - <sup>1</sup>/<sub>(&radic;5 + 1)</sub> jest równa:<br>A. 0,5<br>B. -0,5 <br>C. 0 <br>D. 1.  ",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Sprowadź do wspólnego mianownika: <sup>1</sup>/<sub>x</sub> - <sup>1</sup>/<sub>(1 + x)</sub>.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "<sup>1</sup>/<sub>x(x+1)</sub>"
+},
+{
+"tresc":"Dane są wielomiany P(x) = x<sup>2</sup> - 14x + 24, H(x) = x - 12, Q(x) = ax + b. Wyznacz współczynniki a i b, jeżeli wiadomo, że <sup>P(x)</sup>/<sub>H(x)</sub> = Q(x).",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a = 1, b = -2. "
+},
+{
+"tresc":"Dane są wielomiany P(x) = x<sup>2</sup> - 6x + 2, H(x) = x - 1, Q(x) = ax<sup>3</sup> + bx<sup>2</sup> + cx + d. Wyznacz współczynniki a, b, c i d, jeżeli wiadomo, że P(x)&middotH(x)</sub> = Q(x).",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a = 1, b = -7, c = 8, d = -2. "
+},
+{
+"tresc":"Dane są wielomiany P(x) = 2x<sup>2</sup> - 5, H(x) = 4x - 3, Q(x) = ax<sup>3</sup> + bx<sup>2</sup> + cx + d. Wyznacz współczynniki a i b, jeżeli wiadomo, że P(x)&middotH(x)</sub> = Q(x).",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a = 8, b = -6, c = -20, d = 15. "
+},
+{
+"tresc":"Sprowadź do wspólnego mianownika: <sup>(4 - x)</sup>/<sub>x</sub> - <sup>6</sup>/<sub>(2 - x)</sub>.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "<sup>(x<sup>2</sup> - 12x + 8)</sup>/<sub>(2x - x<sup>2</sup>)</sub>."
+},
+{
+"tresc":"Sprowadź do wspólnego mianownika: <sup>6</sup>/<sub>x</sub> - <sup>(2x + 3)</sup>/<sub>(x - 6)</sub>.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "<sup>(-2x<sup>2</sup> + 3x - 36)</sup>/<sub>(x<sup>2</sup> - 6x)</sub>."
+},
+{
+"tresc":"Wartość wyrażenia <sup>(4a + 3b)</sup>/<sub>2c</sub> dla a = &radic;2 - 1, b = <sup>4</sup>/<sub>3</sub>, c = 6&radic;2 jest równa:<br>A. 0,(6)<br>B. 0,5 <br>C.   <sup>(&radic;2 - 2)</sup>/<sub>3&radic;2</sub>  <br>D. 1. ",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Stosunek długości boków prostokąta wyraża się ułamkiem <sup>1</sup>/<sub>3</sub>. Jeżeli krótszy z nich ma długość x + 2, to jego pole jest równe:<br>A. <sup>1</sup>/<sub>3</sub>&middot;(x<sup>2</sup> + 4x + 4)<br>B. x<sup>2</sup> + 3x + 4 <br>C. x<sup>2</sup> + 12x + 9  <br>D. 3&middot;(x<sup>2</sup> + 4x + 4). ",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Kąt przy podstawie trójkąta równoramiennego ma 30&deg;. Jeżeli jego ramię ma długość 4x, to pole wyraża się wzorem:<br>A. 4x<sup>2</sup><br>B. 4&radic;3x<sup>2</sup> <br>C. 16x<sup>2</sup> <br>D. 2&radic;3x<sup>2</sup>.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Przekątna podstawy sześcianu jest równa 2x. Wyprowadź wzór na pole powierzchni całkowitej w zależności od x.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "P<sub>c</sub> = 12x<sup>2</sup>."
+},
+{
+"tresc":"Średnica kuli ma długość 2&#8731;x. Wyprowadź wzór na objętość kuli w zależności od x.",
+"temat":"Upraszczanie wyrażeń",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "  V = <sup>4&#960;x</sup>/<sub>3</sub>."
+},
+{
+"tresc":"Bok kwadratu ma długość x + 3. Zatem jego pole wyraża się wzorem:<br>A. (x - 3)(x + 3)<br>B. x<sup>2</sup> + 9 <br>C. x<sup>2</sup> + 3  <br>D. x<sup>2</sup> + 6x + 9.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Liczba (2&radic;2 - 3)<sup>2</sup> jest:<br>A. równa -1<br>B. równa 17<br>C. niewymierna<br>D. wymierna.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Kwadrat liczby 4 - &radic;3 jest równy:<br>A. 13<br>B. 19 - 8&radic;3<br>C. 19<br>D.  19 + 8&radic;3.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Kwadrat liczby 3&radic;3 + 7 jest równy:<br>A. 76 - 42&radic;3<br>B. 22<br>C. 76<br>D.  76 + 42&radic;3.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Liczba (&radic;3 - 6)<sup>2</sup> + <sup>36</sup>/<sub>&radic;3</sub> jest równa:<br>A. 12&radic;3 - 33<br>B. 39 + 24&radic;3<br>C. 39 + 48&radic;3<br>D.  39.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Liczba (2 - 3&radic;3)<sup>2</sup> - (3 - 2&radic;3)<sup>2</sup> jest równa:<br>A. 52 - 24&radic;3<br>B. -10<br>C. 10<br>D.  -20.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Wielomian (2x<sup>2</sup> - 3x)<sup>2</sup> jest równy:<br>A. -x<sup>4</sup><br>B. x<sup>2</sup>&middot;(4x<sup>2</sup> - 12x + 9)<br>C. 4x<sup>4</sup> - 9x<sup>2</sup><br>D.  4x<sup>2</sup> - 12x + 9.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Dane są dwie liczby: A = 3a + 2 oraz B = 3a - 2. Iloczyn A&middot;B jest równy:<br>A. 6a<br>B. 9a<sup>2</sup> + 4<br>C. 9a<sup>2</sup> - 4<br>D.  4.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Dane są dwie liczby: a = x - 2y oraz b = x + 2y. Iloczyn a&middot;b jest równy:<br>A. x<sup>2</sup> - 4y<sup>2</sup><br>B. 2x<br>C. x<sup>2</sup> + 4y<sup>2</sup><br>D.  -4y.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Uproszczone wyrażenie (x - 3)(x + 3) ma postać:<br>A. 2x<sup>2</sup> - 9x <br>B. x<sup>3</sup> - 9x<br>C. x<sup>2</sup> - 9 <br>D. 2x<sup>2</sup>.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Uproszczone wyrażenie x(x - 2)(x + 2) ma postać:<br>A. x<sup>3</sup> - 4x <br>B. x<sup>3</sup> - 2x<br>C. 2x<sup>3</sup> - 4 <br>D. 3x<sup>3</sup>.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Wielomian x<sup>2</sup> - 81 jest równy:<br>A. (x - 9)<sup>2</sup><br>B. (x - 9)(x + 9) <br>C. x<sup>2</sup> - 18x + 81  <br>D. x(x - 81).",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Rozłóż na czynniki wyrażenie: <sup>[x<sup>2</sup>(x - 4) - 9(x - 4)]</sup>/<sub>(x + 3)</sub>.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "(x - 4)(x - 3)."
+},
+{
+"tresc":"Funkcja f jest określona wzorem f(x) = x<sup>2</sup> + &radic;3. Jej wartość dla argumentu 1 - <sup>&radic;3</sup>/<sub>2</sub> wynosi:<br>A. <sup>7</sup>/<sub>4</sub><br>B. 2<br>C. 1,5<br>D.  <sup>1</sup>/<sub>4</sub> + &radic;3.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Wyrażenie (x - 2)<sup>2</sup> - (x - 3)(x + 3) jest po uproszczeniu równe:<br>A. 2x - 5<br>B. 2x<sup>2</sup> - 10x + 13<br>C. 2x<sup>2</sup> - 4x + 5<br>D. 13 - 4x.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Wyrażenie xy - x<sup>2</sup> + 2y<sup>2</sup> dla x = &radic;3 + 1 oraz y = 3 + &radic;3 jest równe:<br>A. 34 + 4&radic;3<br>B. 26 + 14&radic;3<br>C. 2&radic;3 + 2<br>D. 34 + 18&radic;3.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Wyrażenie 3x<sup>2</sup> + 2y<sup>2</sup> dla x = &radic;5 + 2 oraz y = 4 - &radic;5 jest równe:<br>A. 69 + 28&radic;5<br>B. -15 + 28&radic;5<br>C. 69 - 4&radic;5<br>D. 49.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Dla jakiej wartości a równość (a - &radic;5)<sup>2</sup> = 21 - 8&radic;5 jest spełniona?",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a = 4."
+},
+{
+"tresc":"Dla jakiej wartości a równość (a + &radic;6)<sup>2</sup> = 15 + 6&radic;6 jest spełniona?",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a = 3."
+},
+{
+"tresc":"Dane są dwie liczby: x = a + 4 oraz y = 3 - a. Wyznacz x<sup>2</sup> - y<sup>2</sup>.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "x<sup>2</sup> - y<sup>2</sup> = 14a + 7."
+},
+{
+"tresc":"Rozłóż wyrażenie (x<sup>2</sup> - 16)(x<sup>2</sup> - 4x + 3) na czynniki.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "(x - 4)(x + 4)(x - 1)(x - 3)."
+},
+{
+"tresc":"Rozkład wyrażenia x<sup>3</sup> - 3x<sup>2</sup> + 2x - 6 na czynniki ma postać:<br>A. (x<sup>2</sup> + 3)(x - 3)<br>B. (x + 3)(x - 3)<sup>2</sup><br>C. (x - 3)(x<sup>2</sup> - 3) <br>D. (x - 3)(x + 3)(x - 6).",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Rozkład wyrażenia 4x<sup>3</sup> - 6x<sup>2</sup> + 2x - 3 na czynniki ma postać:<br>A. (x<sup>2</sup> - 3)(x + 1)<br>B. (2x - 3)(2x<sup>2</sup> + 1)<br>C. (x + 1)(2x - 3)<sup>2</sup> <br>D. 4(x - 3)<sup>3</sup>.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Oblicz, korzystając ze wzorów skróconego mnożenia: <sup>(1653<sup>2</sup> - 1256<sup>2</sup>)</sup>/<sub>397</sub>.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "2909."
+},
+{
+"tresc":"Wykaż, że liczba <sup>(&radic;3 - &radic;2)</sup>/<sub>(&radic;3 + &radic;2)</sub> + <sup>(&radic;3 + &radic;2)</sup>/<sub>(&radic;3 - &radic;2)</sub> jest całkowita.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<sup>(&radic;3 - &radic;2)</sup>/<sub>(&radic;3 + &radic;2)</sub> &middot; <sup>(&radic;3 - &radic;2)</sup>/<sub>(&radic;3 - &radic;2)</sub> + <sup>(&radic;3 + &radic;2)</sup>/<sub>(&radic;3 - &radic;2)</sub> &middot; <sup>(&radic;3 + &radic;2)</sup>/<sub>(&radic;3 + &radic;2)</sub> = (&radic;3 - &radic;2)<sup>2</sup> + (&radic;3 + &radic;2)<sup>2</sup> = 10."
+},
+{
+"tresc":"Oblicz, korzystając ze wzorów skróconego mnożenia: <sup>(6<sup>8</sup> - 1)</sup>/<sub>(36<sup>2</sup> - 1)</sub>.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "1297."
+},
+{
+"tresc":"Rozwiąż układ równań:<br>x + y = 5<br>x<sup>2</sup> - y<sup>2</sup> = -15.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x = 1, y = 4."
+},
+{
+"tresc":"Rozwiąż układ równań (wiedząc, że x,y > 0):<br>2x - y = -1<br>x<sup>2</sup> + y<sup>2</sup> = 205.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "x = 6, y = 13."
+},
+{
+"tresc":"Uprość wyrażenie: (14xy - 2x<sup>3</sup>)<sup>2</sup> - (6xy - 4x<sup>3</sup>)<sup>2</sup>.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "160x<sup>2</sup>y<sup>2</sup> - 8x<sup>4</sup>y - 12x<sup>6</sup>."
+},
+{
+"tresc":"Uprość wyrażenie, wyciągnij czynnik przed nawias: (10a<sup>2</sup>b - 3b<sup>2</sup>)<sup>2</sup> + (a<sup>2</sup>b<sup>2</sup> + b)<sup>2</sup>.",
+"temat":"Wzory skróconego mnożenia",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "b<sup>2</sup>&middot;(100a<sup>4</sup> - 58a<sup>2</sup>b + 9b<sup>2</sup> + a<sup>4</sup>b<sup>2</sup> + 1)."
+},
+{
+"tresc":"Wykaż, że jeżeli liczba jest podzielna przez 6, to jest podzielna również przez 2 i 3.",
+"temat":"Dowody algebraiczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Dowolną liczbę całkowitą x podzielną przez 6 można zapisać w postaci x = 6n, gdzie n &isin; &#8484;. Zatem można ją zapisać również w postaci x = 2 &middot; 3n co oznacza, że jest podzielna przez 2, oraz x = 3 &middot; 2n, co oznacza, że jest podzielna przez 3."
+},
+{
+"tresc":"Wykaż, że suma dwóch liczb: dowolnej liczby całkowitej i liczby dwa razy od niej większej, jest podzielna przez 3. ",
+"temat":"Dowody algebraiczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Dowolną liczbę całkowitą można zapisać jako n, gdzie n &isin; &#8484;, a jej dwukrotność jako 2n. <br>n + 2n = 3n, co oznacza że suma ta jest podzielna przez 3. "
+},
+{
+"tresc":"Wykaż, że suma trzech kolejnych liczb całkowitych jest podzielna przez 3.",
+"temat":"Dowody algebraiczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Trzy kolejne liczby całkowite można zapisać jako n, n + 1, n + 2, gdzie n &isin; &#8484;. <br>n + n + 1 + n + 2 = 3n + 3 = 3&middot;(n + 1), co oznacza że suma ta jest podzielna przez 3. "
+},
+{
+"tresc":"Wykaż, że suma 1254<sup>60</sup> + 1254<sup>61</sup> jest podzielna przez 5.",
+"temat":"Dowody algebraiczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "1254<sup>60</sup> + 1254<sup>61</sup> = 1254<sup>60</sup>&middot;(1 + 1254) = 1254<sup>60</sup>&middot;1255 = 1254<sup>60</sup>&middot;251&middot;5 - liczba daje się zapisać w postaci 5k, gdzie k &isin; &#8484, zatem jest podzielna przez 5."
+},
+{
+"tresc":"Udowodnij, że liczba postaci 3n<sup>2</sup> + 3n + 4, gdzie n &isin; &#8484;, przy dzieleniu przez 3 daje resztę 1.",
+"temat":"Dowody algebraiczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "3n<sup>2</sup> + 3n + 4 = 3n<sup>2</sup> + 3n + 3 + 1 = 3&middot;(n<sup>2</sup> + n + 1) + 1 - liczba daje się zapisać w postaci 3k + 1, gdzie k &isin; &#8484;, zatem przy dzieleniu przez 3 daje resztę 1."
+},
+{
+"tresc":"Wykaż, że liczba 4<sup>4096</sup> + 4<sup>4097</sup> + 16<sup>2049</sup> jest podzielna przez 21.",
+"temat":"Dowody algebraiczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "4<sup>4096</sup> + 4<sup>4097</sup> + 16<sup>2049</sup> = 4<sup>4096</sup> + 4<sup>4097</sup> + 4<sup>4098</sup> = 4<sup>4096</sup>&middot;(1 + 4 + 4<sup>2</sup>) = 4<sup>4096</sup>&middot; 21 - liczba daje się zapisać w postaci 21k, gdzie k &isin; &#8484, zatem jest podzielna przez 21."
+},
+{
+"tresc":"Wykaż, że liczba 3<sup>1251</sup> + 3<sup>1252</sup> + 3<sup>1255</sup> jest podzielna przez 5.",
+"temat":"Dowody algebraiczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "3<sup>1251</sup> + 3<sup>1252</sup> + 3<sup>1255</sup> = 3<sup>1251</sup>&middot;(1 + 3 + 3<sup>4</sup>) = 3<sup>1251</sup>&middot;85 = 3<sup>1251</sup>&middot;17&middot;5 - liczba daje się zapisać w postaci 5k, gdzie k &isin; &#8484;, zatem jest podzielna przez 5."
+},
+{
+"tresc":"Wykaż, że liczba 6<sup>1001</sup> + 6<sup>1003</sup> + 36<sup>501</sup> jest podzielna przez 43.",
+"temat":"Dowody algebraiczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "6<sup>1001</sup> + 6<sup>1003</sup> + 36<sup>501</sup> = 6<sup>1001</sup>&middot;(1 + 6 + 6<sup>2</sup>) = 3<sup>1251</sup>&middot;43 - liczba daje się zapisać w postaci 43k, gdzie k &isin; &#8484;, zatem jest podzielna przez 43."
+},
+{
+"tresc":"Wykaż, że suma trzech kolejnych liczb parzystych jest podzielna przez 6.",
+"temat":"Dowody algebraiczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Trzy kolejne dowolne liczby parzyste można zapisać jako 2n, 2n + 2, 2n + 4. Ich suma wynosi 6n + 6 = 6&middot;(n + 1) - daje się zapisać w postaci 6k, gdzie k &isin; &#8484;, zatem jest podzielna przez 6."
+},
+{
+"tresc":"Wykaż, że dla każdej pary liczb rzeczywistych x i y, prawdziwa jest nierówność x<sup>2</sup> + y<sup>2</sup> &ge; 2xy.",
+"temat":"Dowody algebraiczne",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "<br>x<sup>2</sup> + y<sup>2</sup> &ge; 2xy<br>x<sup>2</sup> - 2xy + y<sup>2</sup> &ge; 0<br>(x - y)<sup>2</sup> &ge; 0 - każda liczba rzeczywista podniesiona do kwadratu jest większa lub równa zero."
+},
+{
+"tresc":"Wykaż, że dla każdej liczby nieparzystej n liczba n<sup>2</sup> - 5 jest parzysta.",
+"temat":"Dowody algebraiczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Dowolną liczbę nieparzystą n można zapisać jako n = 2k + 1, gdzie k &isin; &#8484;.<br>(2k + 1)<sup>2</sup> - 5 = 4k<sup>2</sup> + 4k + 1 - 5 = 2&middot(2k<sup>2</sup> + 2k - 2) - liczba daje się zapisać jako iloczyn dwójki i liczby całkowitej, zatem jest parzysta. "
+},
+{
+"tresc":"Wykaż, że kwadrat dowolnej liczby nieparzystej powiększony o 1 jest parzysty.",
+"temat":"Dowody algebraiczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Dowolną liczbę nieparzystą można zapisać jako 2n + 1, gdzie n &isin; &#8484;.<br>(2n + 1)<sup>2</sup> + 1 = 4n<sup>2</sup> + 4n + 1 + 1 = 2&middot(2n<sup>2</sup> + 2n + 1) - liczba daje się zapisać jako iloczyn dwójki i liczby całkowitej, zatem jest parzysta. "
+},
+{
+"tresc":"Wykaż, że kwadrat liczby nieparzystej jest nieparzysty.",
+"temat":"Dowody algebraiczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Dowolną liczbę nieparzystą można zapisać jako 2n + 1, gdzie n &isin; &#8484;.<br>(2n + 1)<sup>2</sup> = 4n<sup>2</sup> + 4n + 1 = 2&middot(2n<sup>2</sup> + 2n) + 1 - liczba daje się zapisać w postaci 2k + 1, gdzie k &isin; &#8484;, zatem jest nieparzysta. "
+},
+{
+"tresc":"Liczba n daje resztę 2 przy dzieleniu przez 4. Wykaż, że jej kwadrat jest podzielny przez 4.",
+"temat":"Dowody algebraiczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Dowolną liczbę, która przy dzieleniu przez 4 daje resztę 2 można zapisać jako 4n + 2, gdzie n &isin; &#8484;.<br>(4n + 2)<sup>2</sup> = 16n<sup>2</sup> + 16n + 4 = 4&middot(4n<sup>2</sup> + 4n + 1) - liczba daje się zapisać w postaci 4k, gdzie k &isin; &#8484;, zatem jest podzielna przez 4. "
+},
+{
+"tresc":"Liczba n daje resztę 4 przy dzieleniu przez 6. Wykaż, że jej kwadrat daje resztę 4 przy dzieleniu przez 12.",
+"temat":"Dowody algebraiczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Dowolną liczbę, która przy dzieleniu przez 6 daje resztę 4 można zapisać jako 6n + 4, gdzie n &isin; &#8484;.<br>(6n + 4)<sup>2</sup> = 36n<sup>2</sup> + 48n + 16 = 12&middot(3n<sup>2</sup> + 4n + 1) + 4 - liczba daje się zapisać w postaci 12k + 4, gdzie k &isin; &#8484;, zatem przy dzieleniu przez 12 daje resztę 4."
+},
+{
+"tresc":"Wiedząc, że K i L są cyframi, wykaż, że liczba KLK + LK jest parzysta.",
+"temat":"Dowody algebraiczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "KLK + LK = 100K + 10L + K + 10L + K = 102K + 20L = 2&middot;(51K + 10L) - liczba daje się zapisać jako iloczyn dwójki i liczby całkowitej, zatem jest parzysta."
+},
+{
+"tresc":"Wiedząc, że A i B są cyframi, wykaż, że liczba AAB + BAB jest podzielna przez 3.",
+"temat":"Dowody algebraiczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "AAB + BAB = 100A + 10A + B + 100B + 10A + B = 120A + 102B = 3&middot;(40A + 102B) - liczba daje się zapisać w postaci 3k, gdzie k &isin; &#8484;, zatem jest podzielna przez 3."
+},
+{
+"tresc":"Wykaż, że suma postaci 12<sup>n</sup> + 12<sup>(n + 2)</sup>, gdzie n &isin; &#8484;, jest podzielna przez 5.",
+"temat":"Dowody algebraiczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "12<sup>n</sup> + 12<sup>(n + 2)</sup> = 12<sup>n</sup>&middot;(1 + 12<sup>2</sup>) = 12<sup>n</sup>&middot;145 = 12<sup>n</sup>&middot;29&middot;5 - liczba daje się zapisać w postaci 5k, gdzie k &isin; &#8484;, zatem jest podzielna przez 5."
+},
+{
+"tresc":"Wykaż, że dla każdego n &isin; &#8484;, suma   (<sup>n</sup>/<sub>2</sub> + <sup>(n + 2)</sup>/<sub>2</sub>) &isin; &#8484;.",
+"temat":"Dowody algebraiczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "<sup>n</sup>/<sub>2</sub> + <sup>(n + 2)</sup>/<sub>2</sub> = <sup>(2n + 2)</sup>/<sub>2</sub> = n + 1 &isin; &#8484;."
+},
+{
+"tresc":"Wykaż, że dla każdego n &isin; &#8484;, suma   (<sup>4n<sup>2</sup></sup>/<sub>3</sub> + <sup>10n<sup>2</sup></sup>/<sub>6</sub>) &isin; &#8484;.",
+"temat":"Dowody algebraiczne",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "<sup>4n<sup>2</sup></sup>/<sub>3</sub> + <sup>10n<sup>2</sup></sup>/<sub>6</sub> = <sup>9n<sup>2</sup></sup>/<sub>3</sub> = 3n<sup>2</sup> &isin; &#8484;."
+},
+{
+"tresc":"Wykaż, że iloczyn 1 &middot; 2 &middot; 3 &middot; 4 ... &middot; 99 &middot; 100 jest podzielny przez 3<sup>10</sup>.",
+"temat":"Dowody algebraiczne",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "1 &middot; 2 &middot; 3<sup>1</sup> &middot; 4 &middot; 5 &middot; 6 &middot; 7 &middot; 8 &middot; 3<sup>2</sup> &middot; ... &middot; 26 &middot; 3<sup>3</sup> &middot; 28 &middot; ... &middot; 80 &middot; 3<sup>4</sup> &middot; 82 &middot; ... &middot; 99 &middot; 100 = 3<sup>1</sup> &middot; 3<sup>2</sup> &middot; 3<sup>3</sup> &middot; 3<sup>4</sup> &middot; 1 &middot; 2 &middot; ... &middot; 100 = 3<sup>10</sup> &middot; 1 &middot; 2 &middot; ... &middot; 100 - liczba daje się zapisać w postaci 3<sup>10</sup> &middot; k, zatem jest podzielna przez 3<sup>10</sup>."
+},
+{
+"tresc":"Wykaż, że dla dowolnych a,b &isin; &#8477; zachodzi warunek: a(a + 2b) &ge; -b<sup>2</sup>.",
+"temat":"Dowody algebraiczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<br>a(a + 2b) &ge; b<sup>2</sup><br>a<sup>2</sup> + 2ab &ge; -b<sup>2</sup><br>a<sup>2</sup> + 2ab + b<sup>2</sup> &ge; 0<br>(a + b)<sup>2</sup> &ge; 0 - każda liczba rzeczywista podniesiona do kwadratu jest większa lub równa zero."
+},
+{
+"tresc":"Wykaż, że dla dowolnych a,b &isin; &#8477; zachodzi warunek: (a - b)(a + b) &ge; 2b(a - b).",
+"temat":"Dowody algebraiczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<br>(a - b)(a + b) &ge; 2b(a - b).<br>a<sup>2</sup> - b<sup>2</sup> &ge; 2ab - 2b<sup>2</sup><br>a<sup>2</sup> - 2ab + b<sup>2</sup> &ge; 0<br>(a - b)<sup>2</sup> &ge; 0 - każda liczba rzeczywista podniesiona do kwadratu jest większa lub równa zero."
+},
+{
+"tresc":"Wykaż, że dla dowolnych a,b &isin; &#8477;<sub>+</sub>, takich, że a > b zachodzi warunek: (a - b)<sup>2</sup> > 2b<sup>2</sup> - 2ab.",
+"temat":"Dowody algebraiczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<br>(a - b)<sup>2</sup> > 2b<sup>2</sup> - 2ab<br>a<sup>2</sup> - 2ab + b<sup>2</sup> > 2b<sup>2</sup> - 2ab<br>a<sup>2</sup> - b<sup>2</sup> > 0<br>(a - b)(a + b) > 0<br>(a + b) > 0, bo suma liczb dodatnich (z założeń) jest dodatnia, (a - b) > 0 na podstawie założeń. Iloczyn liczb dodatnich jest dodatni, zatem nierówność jest spełniona."
+},
+{
+"tresc":"Wykaż, że dla dowolnych a,b &isin; &#8477;<sub>- </sub>, takich, że b > a zachodzi warunek: (a + b)<sup>2</sup> > 2b(a + b).",
+"temat":"Dowody algebraiczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<br>(a + b)<sup>2</sup> > 2b(a + b)<br>a<sup>2</sup> + 2ab + b<sup>2</sup> > 2ab + 2b<sup>2</sup><br>a<sup>2</sup> - b<sup>2</sup> > 0<br>(a - b)(a + b) > 0<br>(a + b) &lt; 0, bo suma liczb ujemnych (z założeń) jest ujemna, (a - b) &lt; 0 na podstawie założeń. Iloczyn liczb dwóch ujemnych jest dodatni, zatem nierówność jest spełniona."
+},
+{
+"tresc":"Wykaż, że dla dowolnych a,b &isin; &#8477;<sub>+</sub>, takich, że b > a zachodzi warunek: (a + b)<sup>2</sup> &lt; 2(ab + b<sup>2</sup>).",
+"temat":"Dowody algebraiczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<br>(a + b)<sup>2</sup> &lt; 2(ab + b<sup>2</sup>)<br>a<sup>2</sup> + 2ab + b<sup>2</sup> &lt; 2ab + 2b<sup>2</sup><br>a<sup>2</sup> - b<sup>2</sup> &lt; 0<br>(a - b)(a + b) &lt; 0<br>(a + b) > 0, bo suma liczb dodatnich (z założeń) jest dodatnia, (a - b) &lt; 0 na podstawie założeń. Iloczyn liczby ujemnej i dodatniej jest ujemny, zatem nierówność jest spełniona."
+},
+{
+"tresc":"Udowodnij, że liczba 12<sup>8</sup> - 4<sup>8</sup> jest podzielna przez 8.",
+"temat":"Dowody algebraiczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<br>12<sup>8</sup> - 4<sup>8</sup> = <br>= (12<sup>4</sup> - 4<sup>4</sup>)(12<sup>4</sup> + 4<sup>4</sup>) =<br>= (12<sup>2</sup> - 4<sup>2</sup>)(12<sup>2</sup> + 4<sup>2</sup>)(12<sup>4</sup> + 4<sup>4</sup>) =<br>= (12 - 4)(12 + 4)(12<sup>2</sup> + 4<sup>2</sup>)(12<sup>4</sup> + 4<sup>4</sup>) =<br>= 8 &middot; 16 &middot (12<sup>2</sup> + 4<sup>2</sup>)(12<sup>4</sup> + 4<sup>4</sup>) - liczba daje się zapisać w postaci 8k, gdzie k &isin; &#8484;, zatem jest podzielna przez 8."
+},
+{
+"tresc":"Uzasadnij, że dla każdego a &isin; &#8477;<sub>+</sub> prawdziwa jest równość <sup>1</sup>/<sub>a</sub> + a &ge; 2.",
+"temat":"Dowody algebraiczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<br><sup>1</sup>/<sub>a</sub> + a &ge; 2 / &middot; a (a > 0)<br>1 + a<sup>2</sup> &ge; 2a<br> a<sup>2</sup> - 2a + 1 &ge; 0<br>(a - 1)<sup>2</sup> &ge; 0 - każda liczba rzeczywista podniesiona do kwadratu jest większa lub równa zero."
+},
+{
+"tresc":"Uzasadnij, że dla każdego x > 0 i y > 0 prawdziwa jest równość <sup>x</sup>/<sub>y</sub> + <sup>y</sup>/<sub>x</sub> &ge; 2.",
+"temat":"Dowody algebraiczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<br><sup>x</sup>/<sub>y</sub> + <sup>y</sup>/<sub>x</sub> &ge; 2 / &middot; xy &ge; 0<br>x<sup>2</sup> + y<sup>2</sup> &ge; 2xy<br>x<sup>2</sup> -2xy + y<sup>2</sup> &ge; 0<br>(x - y)<sup>2</sup> &ge; 0 - każda liczba rzeczywista podniesiona do kwadratu jest większa lub równa zero."
+},
+{
+"tresc":"Uzasadnij, że dla każdego x, y &isin; &#8477 prawdziwa jest równość x<sup>4</sup> &ge; y&middot;(2x<sup>2</sup> - y).",
+"temat":"Dowody algebraiczne",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<br>x<sup>4</sup> &ge; y&middot;(2x<sup>2</sup> - y)<br>x<sup>4</sup> &ge; 2x<sup>2</sup>y - y<sup>2</sup><br>x<sup>4</sup> - 2x<sup>2</sup>y + y<sup>2</sup> &ge; 0<br>(x<sup>2</sup> - y)<sup>2</sup> &ge; 0 - każda liczba rzeczywista podniesiona do kwadratu jest większa lub równa zero."
+}
+
+]

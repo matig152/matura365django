@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}{{typ}}{% endblock %}
+{% block meta %}<link rel="stylesheet" href="{% static '/css/arkusz.css'%}">{% endblock %}
+{% block content %}
+<script>
+    function drukujPdf(){
+        var header = "<head><style>body{font-family: bahnschrift;} .meta{color: #000cbc; text-align: right; border-bottom: 1px solid #000cbc} h2{font-size: 16px;text-align: right; border-top: 1px solid #000cbc; color: #000cbc;}</style></head><body>"
+        const date = new Date();
+        let day = date.getDate();
+        let month = date.getMonth() + 1;
+        let year = date.getFullYear();
+        let currentDate = `${day}.${month}.${year}`;
+        var footer = "<h2>Wygenerowano w aplikacji Matura365 dnia " + currentDate + "</h2></body>"
+        var new_str = document.querySelectorAll('.test')[0].innerHTML;
+        var mywindow = window.open('', 'PRINT', 'height=700px,width=1100px');
+        mywindow.document.write(header + new_str + footer)
+        mywindow.print()
+        mywindow.close()
+    }
+</script>
+
+{% autoescape off %}
+<div class="test">
+    <h4 class="meta">{{meta}}</h4>
+    {% for zadanie in zadania %}
+    <h4 class="nagl">Zadanie {{forloop.counter}}.</h4>
+    <p class="tresc">{{zadanie.tresc}}</p>
+    {% endfor %}
+</div>
+<div class="grid-przyciski">
+    <button id="przyciskpdf" onclick="drukujPdf()">ZAPISZ JAKO PDF LUB WYDRUKUJ</button>
+    <button id="przyciskodpowiedz" onclick="Odpowiedz()">POKAŻ ODPOWIEDZI</button>
+</div>
+
+<div id="odpowiedz" class="test">
+    {% for zadanie in zadania %}
+    <h4  class="nagl">Zadanie {{forloop.counter}}.</h4>
+    <p class="tresc">{{zadanie.odpowiedz}}</p>
+    {% endfor %}
+</div>
+{% endautoescape %}
+
+{% endblock %}

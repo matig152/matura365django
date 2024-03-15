@@ -1,0 +1,211 @@
+@font-face{
+	font-family: bahnschrift;
+    src: url("fonts/BAHNSCHRIFT.eot");
+    src: url("fonts/BAHNSCHRIFT.TTF") format('truetype');
+    font-stretch: condensed;
+}
+h2{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    font-family: bahnschrift;
+    color: white;
+    font-size: 40px;
+    background-color: #000cbc;
+    border: 1px solid #000cbc;
+    height: 70px;
+    width: 100%;
+    transition: all .2s;
+    box-shadow: 2px 2px 2px grey;
+}
+button:hover{
+    background-color: #8cfffb;
+    color: black;
+}
+
+.wrapper{
+    margin: auto;
+    margin-top: 90px;
+    height: calc(100vh - 110px);
+    width: 1350px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 5fr 3fr;
+}
+.col{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+}
+
+/*ARKUSZE*/
+.arkusze{
+    box-shadow: 2px 2px 6px grey;
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px 20px;
+}
+.arkuszeimgs{
+    display: flex;
+    justify-content: space-between;
+}
+.arkuszeimgs img{
+    height:20vh;
+    box-shadow: 2px 2px 6px grey;
+    border-radius: 2vh;
+    transition: all .2s;
+}
+#img1{height: 23vh;}
+
+
+
+/*ZADANIE*/
+.zadanie{
+    box-shadow: 2px 2px 6px grey;
+    padding: 20px;
+    font-size: 24px;
+    height: 60vh;
+    overflow-y: scroll;
+    scrollbar-color: #000cbc;
+}
+.zadanie h2{font-size: 40px;}
+.zadanie p{font-size: 30px;}
+.zadaniegrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+.zadanie button{
+    font-size: 35px;
+}
+#odpowiedz{display: none;}
+
+/*INSTRUKCJA*/
+.instrukcje{
+    
+    box-shadow: 2px 2px 6px grey;
+    height: 26vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 30px 10px;
+}
+.instrukcje h2{
+    font-size: 40px;
+}
+.instrukcjegrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+.instrukcje button{
+    font-size: 30px;
+    height: 60px;
+    width: 100%;
+}
+.instrukcje p{
+    font-size: 26px;
+    text-align: center;
+}
+.gridcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/*MOBILNA */
+.mobilna{
+    box-shadow: 2px 2px 6px grey;
+    padding: 25px;
+    height: 31vh;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    place-content: center;
+    padding: 10px 30px;
+}
+.mobilna div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.mobilna h2{
+    font-size: 30px;
+    text-align: left;
+}
+#imgmobilna{
+    transition: transform .3s;
+    height: 25vh;
+}
+
+
+/*#region LAPTOP*/
+@media screen and (max-width: 1366px){
+    .wrapper{
+        margin-top: 65px;
+        width: 90%;
+    }
+    h2{font-size: 25px;}
+    button{font-size: 30px;height: 55px;}
+    
+    .zadanie{
+        font-size: 20px;
+    }
+    .zadanie h2{font-size: 25px;}
+    .zadanie p{font-size: 24px;}
+    .zadanie button{font-size: 24px; height: 55px;}
+
+    .arkuszeimgs{width: 80%;margin: auto;}
+    
+    .mobilna h2{font-size: 25px;}
+    #imgmobilna{height: 25vh;}
+    #play-badge{height: 80px;}
+
+    .instrukcje h2{font-size: 25px;}
+    .instrukcje button{
+        font-size: 24px;
+        height: 55px;
+    }
+
+    
+
+}
+/*#endregion LAPTOP*/
+
+
+/*#region MOBILE VERT*/
+@media screen and (max-width: 992px){
+    .wrapper{
+        grid-template-columns: 1fr;
+        height: auto;
+        width: 95%;
+        
+    }
+    
+    .zadanie{height: auto;}
+    .zadanie h2{font-size: 20px;}
+    .zadanie p{font-size: 20px;}
+    .zadaniegrid{grid-template-columns: 1fr;}
+
+    .instrukcje h2{font-size: 20px;}
+    .instrukcje{height: auto;}
+    .instrukcjegrid{grid-template-columns: 1fr;}
+
+    .arkusze{height: auto;gap:30px;}
+    .arkusze h2{font-size: 20px;}
+    .arkuszeimgs{display: flex; justify-content: space-evenly; width: 80%;gap: 10px;}
+    .arkuszeimgs img{height: 15vh;}
+    #img1{height: 15vh;}
+
+    .mobilna{padding: 15px;}
+    .mobilna h2{font-size: 20px;}
+    #play-badge{height: 70px;width: auto;}
+
+}
+/*#endregion MOBILE VERT*/

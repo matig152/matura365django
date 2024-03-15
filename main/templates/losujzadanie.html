@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Matura365 - losowanie zadań{% endblock %}
+{% block meta %}<link rel="stylesheet" href="{% static '/css/form.css' %}">{% endblock %}
+{% block content %}
+<div class="wrapper">
+    <h1>Wprowadź parametry:</h1>
+
+    <form method="POST" action={{action}} style="margin: 10px;" id="paramsform" data-tematy-url="{% url 'ajax_load_tematy' %}">
+        {% csrf_token %}
+        <div class="formfields">
+            <div class="field">
+                <h5>Dział:</h5>
+                {{form.dzial}}
+            </div>
+            <div class="field">
+                <h5>Tematy:</h5>
+                {{form.tematy}}
+            </div>
+            <div class="field" id="field3">
+                <h5>Poziom trudności:</h5>
+                {{form.trudnosc}}
+            </div>
+        </div>
+        <input id="przyciskgeneruj" type="submit" value="GENERUJ &#9654;">
+    </form>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+        $("#id_dzial").change(function(){
+            const url = $("#paramsform").attr("data-tematy-url")
+            const dzial = $(this).val()
+            console.log(dzial)
+            $.ajax({
+                url: url,
+                data: {
+                    'dzial': dzial
+                },
+                success: function(data){
+                    console.log("AJAX PROCESSED")
+                    $("#paramsform").html(data)
+                }
+            }
+            )
+        }
+        )
+    </script>
+</div>
+<div id="msg" class="alert" style="transform: translateY(100px);transition: all .4s;">
+    {% if messages %}
+    <script>
+        async function alert(){
+            await new Promise(r => setTimeout(r, 200));
+            document.getElementById("msg").style.transform = "translateY(0px)"
+            await new Promise(r => setTimeout(r, 2000));
+            document.getElementById("msg").style.transform = "translateY(100px)"
+        }
+        alert()
+    </script>
+    &#9432; &nbsp;
+    {% for msg in messages %}
+    {{msg}}
+    {% endfor %}
+    {% endif %}
+</div>
+{% endblock %}

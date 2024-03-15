@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Baza zadań - {{dzial}}{% endblock %}
+{% block meta %}<link rel="stylesheet" href="{% static '/css/baza.css' %}">{% endblock %}
+
+
+
+{% block content %}
+{% autoescape off %}
+<div class="wrapper">
+{% for zadanie in zadania %}
+    <div class="container">
+        <p><b>Zadanie. </b>{{zadanie.tresc}}</p>
+        <div class="bottomgrid">
+            <h5>Temat: {{zadanie.temat}}<br>Poziom trudności: {% with idx=forloop.counter %}{{listatrudnosci.0}}{% endwith %}</h5>
+            <button id="btn_{{forloop.counter}}" onclick="Odp()">POKAŻ ODPOWIEDŹ</button>
+        </div>
+    </div>
+    <div  id="odpowiedz_{{forloop.counter}}" class="containerodpowiedz">
+        <br>
+        <p><b>Odpowiedź: </b>{{zadanie.odpowiedz}}</p>
+        <script>
+            przycisk = document.getElementById("btn_{{forloop.counter}}")
+            przycisk.onclick = async function(){
+                odpowiedz = document.getElementById("odpowiedz_{{forloop.counter}}");
+                przycisk = document.getElementById("btn_{{forloop.counter}}")
+                if(odpowiedz.style.marginTop == "-70px"){
+                    odpowiedz.style.marginTop = "-195px"
+                    odpowiedz.style.transform = "scaleY(0)"
+                    await new Promise(r => setTimeout(r, 500))
+                    odpowiedz.style.display="none"
+                    przycisk.innerHTML = "POKAŻ ODPOWIEDŹ"
+                }
+                else{
+                    odpowiedz.style.display="block"
+                    await new Promise(r => setTimeout(r, 5))
+                    odpowiedz.style.marginTop = "-70px"
+                    odpowiedz.style.transform = "scaleY(1)"
+                    przycisk.innerHTML = "UKRYJ ODPOWIEDŹ"
+                }
+            }
+        </script>
+    </div>
+{%  endfor %}
+</div>
+{% endautoescape %}
+{% endblock %}

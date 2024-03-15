@@ -1,0 +1,83 @@
+@font-face{
+	font-family: bahnschrift;
+    src: url("fonts/BAHNSCHRIFT.eot");
+    src: url("fonts/BAHNSCHRIFT.TTF") format('truetype');
+    font-stretch: condensed;
+}
+
+
+.wrapper{
+    width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+    height: auto; 
+}
+
+.maingrid{
+    width: 100%;
+    height: 50vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    gap: 20px;
+}
+.wrapper span{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    padding: 0 100px;
+    padding-bottom: 40px;
+}
+.wrapper img{
+    height: 150px;
+}
+.gridfield{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-content: top; 
+    background-color: #f0f0f0;
+    border-radius: 20px;
+}
+.gridfield h1{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.gridfield p{
+    font-size: 24px;
+    text-align: center;
+}
+
+
+/*#region LAPTOP*/
+@media screen and (max-width: 1366px){
+    .wrapper{
+        margin-top: 80px;
+        width: 1000px;
+    }
+    .maingrid{height: auto;}
+    .gridfield{padding: 3px 10px;}
+    .gridfield h1{font-size: 30px;}
+    .gridfield p{font-size: 20px;}
+}
+/*#endregion*/
+
+
+/*#region LAPTOP*/
+@media screen and (max-width: 992px){
+    .wrapper{
+        width: 95%;
+        height: auto;
+    }
+    .wrapper span{display: grid;grid-template-columns: 1fr 3fr; padding: 0; text-align: center;font-size: 22px; place-items: center right;}
+    .wrapper img{height:100px; width:100px;padding: 0;}
+    .maingrid{grid-template-columns: 1fr;}
+
+    .gridfield h1{font-size: 20px;}
+    .gridfield p{font-size: 16px;}
+
+
+}
+/*#endregion*/

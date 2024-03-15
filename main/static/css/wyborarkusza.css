@@ -1,0 +1,129 @@
+@font-face{
+	font-family: bahnschrift;
+    src: url("fonts/BAHNSCHRIFT.eot");
+    src: url("fonts/BAHNSCHRIFT.TTF") format('truetype');
+    font-stretch: condensed;
+}
+
+
+.wrapper{
+    margin: auto;
+    margin-top: 100px;
+    width: 1350px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 40px;
+    place-content: top;
+}
+.wrapper p{
+    font-size: 28px;
+    text-align: center;
+    margin: 5px;
+}
+.wrapper img{
+    margin: auto;
+    width: 250px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px grey;
+    transition: all .2s;
+}
+.buttoncontainer{
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    padding: 20px;
+    transition: all .2s;
+    justify-content: space-between;
+    border-radius: 20px;
+    box-shadow: 0px 0px 0px grey;
+    transition: all .2s;
+    height: 600px;
+}
+.buttoncontainer a{
+    display: grid;
+    place-content: center;
+    text-decoration: none;
+}
+
+
+
+button{
+    border-radius: 10px;
+    font-family: bahnschrift;
+    color: white;
+    font-size: 32px;
+    background-color: #000cbc;
+    border: 1px solid #000cbc;
+    height: 65px;
+    width: 300px;
+    margin: auto;
+    transition: all .2s;
+    box-shadow: 2px 2px 2px grey;
+}
+button:hover{
+    background-color: #8cfffb;
+    color: black;
+}
+
+
+/*#region LAPTOP*/
+@media screen and (max-width: 1366px){
+    .wrapper{width: 90%;margin-top: 70px;gap:20px;}
+    .wrapper p{font-size: 24px;}
+    .wrapper img{width: 200px;place-content: bottom;}
+    button{width: 250px;}
+    .buttoncontainer{
+        height: 550px;
+        width: 100%;
+    }
+}   
+/*#endregion */
+
+/*#region MOBILE VERT*/
+@media screen and (max-width: 992px){
+    .wrapper{grid-template-columns: 1fr; gap:20px;width: 95%;}
+    .wrapper p{margin: 0; font-size: 20px;}
+    .buttoncontainer{
+        width:100%; 
+        height: auto;
+        gap: 20px;
+        border: 1px solid #000cbc;
+        border-radius: 10px;
+        box-shadow: 1px 1px 4px #000cbc;
+        display: grid;
+        grid-template-columns: 2fr 3fr;
+    }
+    #parag1{grid-area: parag1;}
+    #but1{grid-area: but1;}
+    #phot1{grid-area: phot1;}
+    #cont1{
+        grid-template: 
+        'parag1 phot1'
+        'but1 phot1';
+    }
+    #parag2{grid-area: parag2;}
+    #but2{grid-area: but2;}
+    #phot2{grid-area: phot2;}
+    #cont2{
+        grid-template: 
+        'parag2 phot2'
+        'but2 phot2';
+    }
+    #parag3{grid-area: parag3;}
+    #but3{grid-area: but3;}
+    #phot3{grid-area: phot3;}
+    #cont3{
+        grid-template: 
+        'parag3 phot3'
+        'but3 phot3';
+    }
+    .buttoncontainer img{
+        width: 100%;
+        box-shadow: 1px 1px 4px grey;
+        border-radius: 10px;
+    }
+
+    a{width:100%;}
+    button{font-size: 20px;width: auto;height: 50px;}
+    
+}

@@ -1,0 +1,1049 @@
+[
+{
+"tresc":"Oblicz: <sup>(<sup>5</sup>/<sub>4</sub>)</sup>/<sub>(<sup>12</sup>/<sub>9</sub>)</sub>.",
+"temat":"Ułamki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "<sup>15</sup>/<sub>16</sub>."
+},
+{
+"tresc":"Oblicz i wyłącz całości: <sup>(<sup>8</sup>/<sub>3</sub>)</sup>/<sub>(<sup>7</sup>/<sub>9</sub>)</sub>.",
+"temat":"Ułamki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "3 <sup>3</sup>/<sub>7</sub>."
+},
+{
+"tresc":"Porównaj ułamki: <sup>3</sup>/<sub>7</sub> oraz <sup>2</sup>/<sub>9</sub>.",
+"temat":"Ułamki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "<sup>3</sup>/<sub>7</sub> > <sup>2</sup>/<sub>9</sub>."
+},
+{
+"tresc":"Porównaj ułamki: <sup>4</sup>/<sub>5</sub> oraz <sup>7</sup>/<sub>12</sub>.",
+"temat":"Ułamki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "<sup>4</sup>/<sub>5</sub> > <sup>7</sup>/<sub>12</sub>."
+},
+{
+"tresc":"Oblicz 2 - (<sup>12</sup>/<sub>5</sub> + <sup>5</sup>/<sub>12</sub>).",
+"temat":"Ułamki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "-<sup>49</sup>/<sub>60</sub>."
+},
+{
+"tresc":"Oblicz: 42&middot;(<sup>14</sup>/<sub>6</sub> + <sup>4</sup>/<sub>7</sub>) - <sup>1</sup>/<sub>7</sub>. Wynik przedstaw w postaci ułamka niewłaściwego nieskracalnego.",
+"temat":"Ułamki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "<sup>853</sup>/<sub>7</sub>."
+},
+{
+"tresc":"Oblicz: 1<sup>3</sup>/<sub>8</sub> - 6<sup>1</sup>/<sub>5</sub> + <sup>13</sup>/<sub>40</sub>. Wynik przedstaw w postaci ułamka niewłaściwego nieskracalnego.",
+"temat":"Ułamki",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "-<sup>9</sup>/<sub>2</sub>."
+},
+{
+"tresc":"Podaj 20 liczbę rozwinięcia dziesiętnego ułamka 0,(134).",
+"temat":"Ułamki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "3."
+},
+{
+"tresc":"Wykonaj działanie: 4,8 &middot; <sup>7</sup>/<sub>12</sub> + 3,6. Wynik przedstaw w postaci ułamka dziesiętnego.",
+"temat":"Ułamki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "6,4."
+},
+{
+"tresc":"Wykonaj działanie: <sup>3</sup>/<sub>2</sub> &middot; <sup>8</sup>/<sub>5</sub> : 2 + <sup>1</sup>/<sub>4</sub> . Wynik przedstaw w postaci ułamka dziesiętnego.",
+"temat":"Ułamki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "1,45."
+},
+{
+"tresc":"Oblicz i wyłącz całości: <sup>(<sup>12</sup>/<sub>5</sub> + <sup>2</sup>/<sub>7</sub> )</sup>/<sub>(<sup>2</sup>/<sub>3</sub>)</sub>.",
+"temat":"Ułamki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "4 <sup>1</sup>/<sub>35</sub>."
+},
+{
+"tresc":"Oblicz: <sup>(<sup>2</sup>/<sub>5</sub> + <sup>2</sup>/<sub>3</sub> )</sup>/<sub>(<sup>8</sup>/<sub>15</sub>)</sub>.",
+"temat":"Ułamki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "2."
+},
+{
+"tresc":"Która para liczb a i b spełnia nierówność: <sup>3</sup>/<sub>7</sub> < <sup>a</sup>/<sub>b</sub> < <sup>11</sup>/<sub>4</sub>:<br>A. a = 20, b = 7<br>B. a = 19, b = 7<br>C. a = 3, b = 14<br>D. a = 2, b = 1.",
+"temat":"Ułamki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Która liczba spełnia nierówność: <sup>1</sup>/<sub>7</sub> < <sup>1</sup>/<sub>2a<sup>2</sup></sub> < <sup>1</sup>/<sub>3</sub>:<br>A. a = 2<br>B. a = 1,5<br>C. a = 3<br>D. a = 0,5.",
+"temat":"Ułamki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Wykonaj działanie: <sup>14</sup>/<sub>5</sub> + 1,45 + <sup>1</sup>/<sub>6</sub> &middot; 1,2. Wynik przedstaw w postaci ułamka dziesiętnego.",
+"temat":"Ułamki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "4,45."
+},
+{
+"tresc":"Samochód pierwszego dnia przejechał 360 km, co stanowiło <sup>3</sup>/<sub>16</sub> jego całkowitej drogi. Drogę pokonaną w dniu drugim i trzecim określa stosunek 2 : 3. Oblicz całkowitą drogę oraz pokonaną dnia drugiego i trzeciego.",
+"temat":"Ułamki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Całkowita droga - 1920km, drugiego dnia - 624 km, trzeciego - 936."
+},
+{
+"tresc":"Piotrek przepłynął 350m kraulem, a resztę drogi na plecach. Wiedząc, że droga przebyta na plecach stanowiła <sup>1</sup>/<sub>5</sub> całkowitej drogi, oblicz jej długość.",
+"temat":"Ułamki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Droga przebyta na plecach wyniosła 87,5 metra."
+},
+{
+"tresc":"Oblicz: (<sup>3</sup>/<sub>5</sub>)<sup>2</sup> - <sup>1</sup>/<sub>2</sub> : <sup>3</sup>/<sub>8</sub> + <sup>1</sup>/<sub>5</sub>.",
+"temat":"Ułamki",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "-<sup>58</sup>/<sub>75</sub>."
+},
+{
+"tresc":"Oblicz: <sup>12</sup>/<sub>5</sub> - (<sup>6</sup>/<sub>5</sub> &middot; <sup>1</sup>/<sub>3</sub>) - 2 <sup>1</sup>/<sub>4</sub>.",
+"temat":"Ułamki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "-0,01."
+},
+{
+"tresc":"Jeżeli zmniejszymy licznik ułamka z mianownikiem równym 6 o 4 oraz zwiększymy jego mianownik o 3, to nie zmieni on swojej wartości. Wyznacz ten ułamek.",
+"temat":"Ułamki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "-<sup>8</sup>/<sub>6</sub>."
+},
+{
+"tresc":"Porównaj ułamki: 0,(12) oraz <sup>3</sup>/<sub>198</sub>.",
+"temat":"Ułamki",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "0,(12) > <sup>3</sup>/<sub>198</sub>."
+},
+{
+"tresc":"Porównaj ułamki: 3,(243) oraz <sup>34</sup>/<sub>9</sub>.",
+"temat":"Ułamki",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "3,(243) < <sup>34</sup>/<sub>9</sub>."
+},
+{
+"tresc":"Oblicz: (<sup>1</sup>/<sub>3</sub> &middot; <sup>1</sup>/<sub>2</sub> )<sup>3</sup> + <sup>14</sup>/<sub>3</sub> + 6,25.",
+"temat":"Ułamki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "10 <sup>199</sup>/<sub>216</sub>."
+},
+{
+"tresc":"Oblicz: <sup>12</sup>/<sub>7</sub> - (<sup>6</sup>/<sub>4</sub> &middot; <sup>12</sup>/<sub>16</sub> ) + <sup>1</sup>/<sub>6</sub> &middot; <sup>12</sup>/<sub>5</sub>. Wynik podaj w zaokrągleniu do części tysięcznych.",
+"temat":"Ułamki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "0,989. "
+},
+{
+"tresc":"Oblicz: 1840 &middot; (1 - <sup>1841</sup>/<sub>1840</sub>) - (1 - <sup>2000</sup>/<sub>1800</sub>) : 200.",
+"temat":"Ułamki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "-<sup>1799</sup>/<sub>1800</sub>"
+},
+{
+"tresc":"Oblicz: <sup>(<sup>14</sup>/<sub>15</sub> - <sup>1</sup>/<sub>2</sub>)</sup>/<sub>(0,005:0,001)</sub> - <sup>(<sup>12</sup>/<sub>15</sub> - <sup>3</sup>/<sub>4</sub>)</sup>/<sub><sup>1</sup>/<sub>3</sub></sub>.",
+"temat":"Ułamki",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": " -<sup>19</sup>/<sub>300</sub>."
+},
+{
+"tresc":"Oblicz: 2021 &middot; (<sup>2022</sup>/<sub>2021</sub> - <sup>2024</sup>/<sub>2021</sub>).",
+"temat":"Ułamki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "-2."
+},
+{
+"tresc":"Porównaj ułamki: 6 <sup>6</sup>/<sub>7</sub> oraz 6,7(98).",
+"temat":"Ułamki",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "6 <sup>6</sup>/<sub>7</sub> > 6,7(98)."
+},
+{
+"tresc":"Oblicz (0,1)<sup>2</sup> - (<sup>0,005</sup>/<sub>0,01</sub>)<sup>3</sup>.",
+"temat":"Ułamki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "-0,115."
+},
+{
+"tresc":"Janek dostaje 60 złotych kieszonkowego. Pierwszego dnia wydał  <sup>1</sup>/<sub>12</sub> kieszonkowego, a drugiego  <sup>1</sup>/<sub>22</sub> kwoty która pozostała mu po dniu pierwszym. Ile pieniędzy zostało Jankowi?",
+"temat":"Ułamki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "52,50 zł."
+},
+{
+"tresc":"Oblicz: (-<sup>3</sup>/<sub>5</sub>)<sup>4</sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "<sup>81</sup>/<sub>625</sub>."
+},
+{
+"tresc":"Oblicz: &#8731;(<sup>27</sup>/<sub>8</sub>)<sup>2</sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "2,25."
+},
+{
+"tresc":"Przedstaw wyrażenie &#8731;a &middot; &#8732;a jako potęgę a.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "a<sup><sup>7</sup>/<sub>12</sub></sup>."
+},
+{
+"tresc":"Przedstaw wyrażenie <sup>(&#8731;27 &middot; &#8732;16)</sup>/<sub>&radic;144</sub> jako potęgę dwójki.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "2<sup>-1</sup>."
+},
+{
+"tresc":"Przedstaw wyrażenie <sup>(&radic;250 - &radic;360)</sup>/<sub>(&#8731;64 &middot; &radic;10)</sub> jako potęgę dwójki.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": " 2<sup>-2</sup>."
+},
+{
+"tresc":"Wyłącz czynnik przed znak pierwiastka: &#8732;1440.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "2&#8732;90."
+},
+{
+"tresc":"Usuń niewymierność z mianownika: <sup>1</sup>/<sub>&radic;5</sub>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "<sup>&radic;5</sup>/<sub>5</sub>."
+},
+{
+"tresc":"Oblicz i przedstaw jako ułamek dziesiętny: (<sup>2</sup>/<sub>7</sub>)<sup>-2</sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "12,25."
+},
+{
+"tresc":"Oblicz: &radic;(16 &middot; 81 &middot; 2,25).",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "54."
+},
+{
+"tresc":"Przedstaw wyrażenie 2<sup>20</sup> &middot; 4<sup>30</sup> jako potęgę czwórki.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "4<sup>40</sup>."
+},
+{
+"tresc":"Oblicz: 144<sup>-7</sup> : 12<sup>-8</sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "12<sup>-6</sup>."
+},
+{
+"tresc":"Oblicz: (<sup>1</sup>/<sub>27</sub>)<sup>-<sup>1</sup>/<sub>3</sub></sup> : (<sup>4</sup>/<sub>25</sub>)<sup>-<sup>1</sup>/<sub>2</sub></sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "<sup>15</sup>/<sub>2</sub>."
+},
+{
+"tresc":"Oblicz: 2<sup><sup>3</sup>/<sub>4</sub></sup> &middot; 4<sup><sup>7</sup>/<sub>8</sub></sup> : 2<sup><sup>1</sup>/<sub>2</sub></sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "4."
+},
+{
+"tresc":"Oblicz: [&#8731;(7<sup>9</sup>) + &#8732;(144<sup>2</sup>)] &middot; 5<sup>-1</sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "71."
+},
+{
+"tresc":"Oblicz: &#8732;(16<sup>-1</sup>) : (<sup>1</sup>/<sub>25</sub>)<sup>-<sup>1</sup>/<sub>2</sub></sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "0,1."
+},
+{
+"tresc":"Przedstaw jako potęgę trójki: &radic;27 &middot; &#8732;3.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "3<sup><sup>7</sup>/<sub>4</sub></sup>."
+},
+{
+"tresc":"Oblicz: (3&radic;2400 -  10&radic;216)<sup>3</sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "0."
+},
+{
+"tresc":"Przedstaw jako potęgę dwójki: 2<sup>100</sup> + 2<sup>100</sup> + 2<sup>101</sup> + 2<sup>102</sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "2<sup>103</sup>."
+},
+{
+"tresc":"Uprość wyrażenie: 3<sup>50</sup> + 3<sup>51</sup> - 3<sup>52</sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "-5 &middot; 3<sup>50<sup>."
+},
+{
+"tresc":"Zapisz jako potęgę dwójki: 8&radic;8 - 2&radic;32.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "2<sup><sup>7</sup>/<sub>2</sub></sup>."
+},
+{
+"tresc":"Oblicz: (&radic;12 - &radic;48) : &radic;3.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "-2."
+},
+{
+"tresc":"Uporządkuj w kolejności rosnącej: 5<sup>-1</sup>, 5<sup>12</sup> : (5<sup>6</sup>)<sup>2</sup>, 125 : 5<sup>5</sup>, 625 : 5<sup>3</sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "125 : 5<sup>5</sup> < 5<sup>-1</sup> < 5<sup>12</sup> : (5<sup>6</sup>)<sup>2</sup> < 625 : 5<sup>3</sup>."
+},
+{
+"tresc":"Oblicz: &radic;(<sup>12</sup>/<sub>64</sub>) + &radic;(<sup>64</sup>/<sub>12</sub>).",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "<sup>19&radic;3</sup>/<sub>12</sub>."
+},
+{
+"tresc":"Oblicz: [(<sup>1</sup>/<sub>4</sub>)<sup>-2</sup> - (<sup>1</sup>/<sub>125</sub>)<sup><sup>1</sup>/<sub>3</sub></sup>] &middot; [(<sup>4</sup>/<sub>81</sub>)<sup><sup>1</sup>/<sub>2</sub></sup> + (<sup>432</sup>/<sub>3</sub>)<sup><sup>1</sup>/<sub>2</sub></sup>].",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "<sup>1738</sup>/<sub>9</sub>."
+},
+{
+"tresc":"Przedstaw jako potęgę dwójki: <sup>(9<sup>8</sup> &middot; 8<sup>5</sup>)</sup>/<sub>24<sup>12</sup></sub>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "2<sup>-21</sup>."
+},
+{
+"tresc":"Oblicz: <sup>(&#8731;27 &middot; 49<sup>2</sup>)</sup>/<sub>21<sup>4</sup></sub>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<sup>1</sup>/<sub>27</sub>."
+},
+{
+"tresc":"Oblicz: <sup>(3,6 &middot; 10<sup>-12</sup> &middot; 3,4 &middot; 10<sup>-16</sup>)</sup>/<sub>(2 &middot; 10<sup>-28</sup>)</sub>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "6,12."
+},
+{
+"tresc":"Oblicz: &#8731;<sup>48</sup>/<sub>9</sub> &middot; &#8731;<sup>36</sup>/<sub>81</sub>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "<sup>4</sup>/<sub>3</sub>."
+},
+{
+"tresc":"Oblicz: &radic;(<sup>45</sup>/<sub>10</sub>) &middot; &radic;(<sup>5</sup>/<sub>10</sub>).",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "1,5."
+},
+{
+"tresc":"Przedstaw w postaci potęgi liczby a: (a<sup><sup>2</sup>/<sub>3</sub></sup> : a<sup><sup>1</sup>/<sub>4</sub></sup>)<sup>3</sup>.",
+"temat":"Potęgi i pierwiastki",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a<sup><sup>5</sup>/<sub>4</sub></sup>."
+},
+{
+"tresc":"Oblicz: log<sub>2</sub>&radic;2 + log<sub>2</sub>&radic;8.",
+"temat":"Logarytmy",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "2."
+},
+{
+"tresc":"Wyrażenie log<sub>4</sub>12 - log<sub>4</sub>3 jest równe:<br>A. log<sub>4</sub>9<br>B. 2<br>C. 4<br>D. 1.",
+"temat":"Logarytmy",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Jeżeli log<sub>6</sub>x = 3, to:<br>A. x = 729<br>B. x = 216<br>C. x = 2<br>D. x = <sup>1</sup>/<sub>2</sub>.",
+"temat":"Logarytmy",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Jeżeli log<sub>x</sub>16 = 4, to:<br>A. x = 2<br>B. x = 4<br>C. x = 4<sup>16</sup><br>D. x = <sup>1</sup>/<sub>4</sub>.",
+"temat":"Logarytmy",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Wyrażenie log<sub>3</sub>(&radic;3<sup>8</sup> &middot; &radic;3<sup>4</sup> &middot; &radic;3<sup>2</sup>) jest równe:<br>A. log<sub>3</sub>14<br>B. 7<br>C. 14<br>D. <sup>14</sup>/<sub>3</sub>.",
+"temat":"Logarytmy",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Liczba log<sub>4</sub>320 - log<sub>4</sub>5 jest równa:<br>A. log<sub>4</sub>315<br>B. 7<br>C. 3<br>D. <sup>1</sup>/<sub>64</sub>.",
+"temat":"Logarytmy",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Liczba 2log<sub>6</sub>18 - log<sub>6</sub>9 jest równa:<br>A. 2log<sub>6</sub>2<br>B. 4<br>C. 2<br>D. <sup>1</sup>/<sub>2</sub>.",
+"temat":"Logarytmy",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Liczba 2log<sub>10</sub>100 - 3log<sub>10</sub>10 jest równa:<br>A. 1<br>B. 4<br>C. 2<br>D. <sup>1</sup>/<sub>2</sub>.",
+"temat":"Logarytmy",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Liczba log<sub>2</sub>24 + log<sub>2</sub><sup>2</sup>/<sub>3</sub> jest równa:<br>A. <sup>1</sup>/<sub>4</sub><br>B. 4<br>C. 2<br>D. <sup>1</sup>/<sub>2</sub>.",
+"temat":"Logarytmy",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Liczba log<sub>4</sub>32 jest równa:<br>A. <sup>1</sup>/<sub>4</sub><br>B. -<sup>5</sup>/<sub>2</sub><br>C. <sup>5</sup>/<sub>2</sub><br>D. -<sup>2</sup>/<sub>5</sub>.",
+"temat":"Logarytmy",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Wyrażenie log<sub>2</sub><sup>16</sup>/<sub>&radic;8</sub> + log<sub>2</sub>&radic;32 jest równe:<br>A. 6<br>B.  <sup>23</sup>/<sub>4</sub><br>C. <sup>21</sup>/<sub>4</sub><br>D. <sup>11</sup>/<sub>2</sub>.",
+"temat":"Logarytmy",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Wyrażenie <sup>1</sup>/<sub>4</sub> &middot; log<sub>2</sub>20 - <sup>1</sup>/<sub>2</sub> &middot; log<sub>4</sub>3,2 jest równe:<br>A. log<sub>2</sub>23,2<br>B. 2<br>C. 1<br>D. 1,5.",
+"temat":"Logarytmy",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Dane są trzy liczby: x = log<sub>4</sub><sup>1</sup>/<sub>16</sub>, y =  log<sub>6</sub><sup>1</sup>/<sub>6</sub>, z = log<sub>2</sub><sup>1</sup>/<sub>8</sub>. Uporządkuj liczby malejąco.",
+"temat":"Logarytmy",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "y > x > z."
+},
+{
+"tresc":"Dane są trzy liczby: a = log<sub>3</sub><sup>1</sup>/<sub>3</sub>, b =  log<sub>10</sub><sup>1</sup>/<sub>1000</sub>, c = log<sub>5</sub><sup>1</sup>/<sub>25</sub>. Uporządkuj liczby malejąco.",
+"temat":"Logarytmy",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "a > c > b."
+},
+{
+"tresc":"Jeżeli log<sub>4</sub>3 = x, to:<br>A. 3<sup>x</sup> = 4<br>B. 4<sup>x</sup> = 3<br> C. x<sup>4</sup> = 3<br> D. 3<sup>4</sup> = x.",
+"temat":"Logarytmy",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Jeżeli log<sub>2</sub>x = 5, to:<br>A. 5<sup>x</sup> = 2<br>B. 2<sup>x</sup> = 5<br> C. x<sup>2</sup> = 5<br> D. 2<sup>5</sup> = x.",
+"temat":"Logarytmy",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Która z liczb spełnia równanie 3<sup>x</sup> = 5?<br>A. log<sub>5</sub>3<br>B. log<sub>3</sub>5<br> C. 5<sup>3</sup><br> D. 3<sup>5</sup>.",
+"temat":"Logarytmy",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Liczba log<sub>25</sub>0,2 + log<sub>2</sub>0,25 jest równa:<br>A. log<sub>25</sub>0,45<br>B. log<sub>2</sub>1,25<br> C. 2<br> D. -<sup>5</sup>/<sub>2</sub>.",
+"temat":"Logarytmy",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Oblicz: <sup>log<sub>8</sub>16</sup>/<sub>2log<sub>8</sub>&radic;2</sub>.",
+"temat":"Logarytmy",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "4."
+},
+{
+"tresc":"Oblicz: <sup>(log<sub>5</sub>162 - log<sub>5</sub>2) </sup>/<sub>log<sub>5</sub>3</sub>.",
+"temat":"Logarytmy",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "4."
+},
+{
+"tresc":"Jaka jest dziedzina wyrażenia log<sub>2</sub>(x + 3)?",
+"temat":"Logarytmy",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; (-3; +&infin;)."
+},
+{
+"tresc":"Jaka jest dziedzina wyrażenia log<sub>2</sub>(9 - 3x)?",
+"temat":"Logarytmy",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x &#8712; (-&infin;; 3)."
+},
+{
+"tresc":"Oblicz: log<sub>3</sub>27<sup>(log<sub>3</sub>28 - log<sub>3</sub>4)</sup>.",
+"temat":"Logarytmy",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = 7."
+},
+{
+"tresc":"Oblicz: (log<sub>5</sub>312,5 + <sup>1</sup>/<sub>2</sub> &middot; log<sub>5</sub>100)<sup>(3 - log<sub>5</sub>7,8125)</sup>.",
+"temat":"Logarytmy",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "x = 16."
+},
+{
+"tresc":"Oblicz: <sup>(<sup>1</sup>/<sub>2</sub>&middot;log<sub>4</sub>81 + log<sub>16</sub>3) </sup>/<sub><sup>1</sup>/<sub>4</sub>&middot;log<sub>2</sub>3</sub>.",
+"temat":"Logarytmy",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "5."
+},
+{
+"tresc":"Oblicz: -log<sub>5</sub>(<sup>1</sup>/<sub>625</sub>)<sup>(log<sub>4</sub>17 + <sup>1</sup>/<sub>2</sub>)</sup>.",
+"temat":"Logarytmy",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "34."
+},
+{
+"tresc":"Oblicz: 2log<sub>4</sub>32 + log<sub>4</sub>10 - log<sub>2</sub>25.",
+"temat":"Logarytmy",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "7."
+},
+{
+"tresc":"Oblicz: log<sub><sup>1</sup>/<sub>5</sub></sub>125 + log625 - <sup>log<sub>8</sub>62,5</sup>/<sub>(<sup>1</sup>/<sub>3</sub>&middot;log<sub>2</sub>10)</sub>.",
+"temat":"Logarytmy",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "-2."
+},
+{
+"tresc":"Oblicz: <sup>(log28 + 4log2)</sup>/<sub>log4</sub> - log<sub>4</sub>7.",
+"temat":"Logarytmy",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "3."
+},
+{
+"tresc":"Oblicz: 2log<sub>3</sub>18 + 1 - log<sub>3</sub>4 + log<sub>6</sub>3 + 2log<sub>6</sub>12 - log<sub>6</sub>2.",
+"temat":"Logarytmy",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "8."
+},
+{
+"tresc":"12% z liczby 6 to:<br>A. 7,2,<br>B. 0,72<br>C. 50<br>D. 1,2.",
+"temat":"Procenty",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"34% z liczby 18 to:<br>A. 0,0612,<br>B. 0,612<br>C. 6,12<br>D. 61,2.",
+"temat":"Procenty",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"12% liczby x wynosi 0,072. Wtedy :<br>A. x = 0,0864<br>B. x = 1,(6) <br>C. x = 0,6<br>D. x = 0,00864.",
+"temat":"Procenty",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"28% liczby x wynosi 14. Wtedy :<br>A. x = 3,92<br>B. x = 200 <br>C. x = 39,2<br>D. x = 50.",
+"temat":"Procenty",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. D. "
+},
+{
+"tresc":"60% liczby x wynosi 24. Wtedy :<br>A. x = 25<br>B. x = 38,4 <br>C. x = 40<br>D. x = 14,4.",
+"temat":"Procenty",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"19% liczby x wynosi 38. Wtedy :<br>A. x = 45,22<br>B. x = 200 <br>C. x = 7,22<br>D. x = 5.",
+"temat":"Procenty",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Liczba x stanowi 25% liczby y. Wtedy:<br>A. 0,25x = y <br>B. x = 0,25y <br>C. x = 1,25y<br>D. 1,25x = y.",
+"temat":"Procenty",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Jeżeli liczbę a zwiększymy o 34%, to otrzymamy liczbę b. Który warunek opisuje tę zależność?<br>A. 0,34a = b <br>B. a = 0,34b <br>C. a = 1,34b<br>D. 1,34a = b.",
+"temat":"Procenty",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Jeżeli liczbę a zmniejszymy o 12%, to otrzymamy liczbę b. Który warunek opisuje tę zależność?<br>A. a = b - 0,12 <br>B. a + 0,12 = b <br>C. 0,88a = b<br>D. a = 0,12b.",
+"temat":"Procenty",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Liczba 12 to x% liczby 96. Wtedy <br>A. x = 12,5 <br>B. x = 0,125 <br>C. x = 8<br>D. x = 0,8.",
+"temat":"Procenty",
+"trudnosc":1,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Cena samochodu przed przeceną o 20% wynosiła 15600 zł. Cena po przecenie wynosiła:<br>A. 12480 zł<br>B. 18720 zł<br>C. 3120 zł<br>D. 12400 zł.",
+"temat":"Procenty",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Cena telewizora po podwyżce o 25% wynosi 3500 złotych. Cena sprzed podwyżki wynosiła:<br>A. 4666,67 zł<br>B. 2800 zł<br>C. 2625 zł<br>D. 875 zł.",
+"temat":"Procenty",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Produkt bez podatku VAT (23%) kosztuje 36 złotych. Za ile zakupimy go w sklepie? :<br>A. 29,27  zł<br>B. 43,25 zł<br>C. 27,72 zł<br>D. 44,28 zł.",
+"temat":"Procenty",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Cenę spodni obniżono dwukrotnie o 10%, aktualnie kosztują 97,20 zł. Przed obniżkami spodnie kosztowały: <br>A. 106,92 zł<br>B. 98,17 zł.<br>C. 108 zł<br>D. 120 zł.",
+"temat":"Procenty",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D. "
+},
+{
+"tresc":"Cenę koszulki obniżono o 28%, a aktualnie kosztuje 36 zł. Przed obniżkami koszulka kosztowała: <br>A. 40 zł<br>B. 128,57 zł<br>C. 46,08 zł<br>D. 50 zł.",
+"temat":"Procenty",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"W sklepie przeceniono wszystkie artykuły odzieżowe o 20%. To oznacza, że za dwie koszulki zapłacimy teraz: <br>A. 10% mniej<br>B. 40% mniej<br>C. 20% mniej<br>D. 20 złotych mniej.",
+"temat":"Procenty",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Pan Piotr ulokował 10000 zł na lokacie czteroletniej, z oprocentowaniem 1,2% w skali roku oraz roczną kapitalizacją odsetek. Zysk Pana Piotra wyniesie: <br>A. 488,70 zł<br>B. 10488,70 zł<br>C. 10480 żł<br>D. 480 zł.",
+"temat":"Procenty",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Pan Jan zakupił 15 obligacji w cenie 100 zł, z oprocentowaniem 3,85% w skali roku, bez kapitalizacji odsetek. Zysk Pana Jana po 12 latach wyniesie: <br>A. 693 zł<br>B. 2193 zł<br>C. 860,31 zł<br>D. 46,20 zł.",
+"temat":"Procenty",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Pewien makler zakupił kilka akcji firmy A za łączną cenę 1400 zł. Po dwóch latach sprzedał połowę z nich, z zyskiem 12%. Po trzech latach sprzedał drugą połowę ze stratą 2%. Oblicz, ile złotych uzyskał.",
+"temat":"Procenty",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "70 zł."
+},
+{
+"tresc":"Jeżeli liczba 38 jest o 60% większa od liczby c, to c jest równe:<br>A. 23,75<br>B. 24<br>C. 14,25<br>D. 22,8.",
+"temat":"Procenty",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Cenę telewizora najpierw obniżono o 12%, a następnie jeszcze o 24%, wskutek czego kosztował on 668,80 zł. Oblicz początkową cenę:<br>A. 909,57 zł<br>B. 1000 zł<br>C. 23222,22 zł<br>D. 7333,33  zł.",
+"temat":"Procenty",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Cena jabłek została podniesiona o 3%, a następnie o 9%, wskutek czego kosztują aktualnie 6 zł. Oblicz początkową cenę:<br>A. 5,34 zł<br>B. 4,89 zł<br>C. 5,30 zł<br>D. 5,14  zł.",
+"temat":"Procenty",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Wynagrodzenie netto wynosi 3460 zł. Jeżeli odprowadzane składki i podatki stanowią 20% wynagrodzenia brutto, to stawka brutto wynosi:<br>A. 2883,33 zł<br>B. 4325 zł<br>C. 2768 zł<br>D. 4152  zł.",
+"temat":"Procenty",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Pan Jacek ulokował pewną kwotę na lokacie pięcioletniej, z oprocentowaniem 5% w skali roku oraz roczną kapitalizacją odsetek. Jego zysk ma wynieść 350 zł. Ulokowana kwota wynosi około: <br>A. 1356 zł<br>B. 1400 zł<br>C. 274,23 zł<br>D. 1266,82 zł.",
+"temat":"Procenty",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Pewien makler zakupił 12 akcji firmy A w cenie 27 zł oraz 15 akcji firmy B w cenie 105 zł. Po trzech latach odsprzedał akcje firmy A za 34 zł, a akcje firmy B za 90 zł. Oblicz procentowy zysk lub stratę z inwestycji.",
+"temat":"Procenty",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Strata wyniosła ok. -11,85%."
+},
+{
+"tresc":"Liczba punktów Janka jest o 40% większa od średniej w klasie, a Piotrka o 20% niższa od średniej. Janek ma: <br>A. 175% więcej punktów od Piotrka<br>B. 60% więcej punktów od Piotrka<br>C. 30% więcej punktów od Piotrka<br>D. 160% więcej punktów od Piotrka.",
+"temat":"Procenty",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Odp. A."
+},
+{
+"tresc":"Pan Roman spłacił pożyczkę w sześciu ratach. Każda kolejna rata była o 10% niższa od poprzedniej. Wiedząc, że ostatnia rata była równa 864,48 zł, oblicz wartosć pierwszej raty.",
+"temat":"Procenty",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "1464 zł."
+},
+{
+"tresc":"Pan Jan wpłacił 15000 zł na 4-letnią lokatę z oprocentowaniem 6% oraz kapitalizacją roczną. Pan Piotr wpłacił na lokatę 16000 zł na podobną lokatę, jednak bez kapitalizacji odsetek. Który z panów zyska więcej i o ile?",
+"temat":"Procenty",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Pan Jan, o 97,15 zł."
+},
+{
+"tresc":"Masz do dyspozycji 16000 zł. Możesz wpłacić je na lokatę z oprocentowaniem 7% w skali roku oraz roczną kapitalizacją odsetek lub zakupić za tę kwotę obligacje skarbowe, z oprocentowaniem 9% w skali roku, ale bez kapitalizacji odsetek. Która z opcji okazuje się bardziej korzystna i o ile po 2 latach? Jak sytuacja zmienia się po 10 latach?",
+"temat":"Procenty",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Po dwóch latach na obligacjach zarobimy 561,60 zł więcej niż na lokacie, a po 10 na lokacie zarobimy o 1074,42 złote więcej niż na obligacjach."
+},
+{
+"tresc":"Cena paliwa sukcesywnie wzrasta o 5% miesięcznie. Wiedząc, że w kwietniu kosztowała 6,70 zł, oblicz o ile wzrosła względem ceny ze stycznia.",
+"temat":"Procenty",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "Wzrosła o około 91 groszy."
+},
+{
+"tresc":"Dane są zbiory A = {1, 2, 3, 4, 5} oraz B = {3, 4, 5, 6, 7, 8}. Wyznacz A &cap; B. ",
+"temat":"Zbiory i przedziały",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "A &cap; B = {3, 4, 5}."
+},
+{
+"tresc":"Wiadomo, że A = {1, 2, 3} oraz B = {1, 3, 4, 5, 6, 7, 8}. Wyznacz A &cup; B.",
+"temat":"Zbiory i przedziały",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "A &cup; B = {1, 2, 3, 4, 5, 6, 7, 8}."
+},
+{
+"tresc":"Dane są zbiory A = {1, 2, 3, 4, 5} oraz B = {3, 4, 5, 6, 7, 8}. Wyznacz A &bsol; B. ",
+"temat":"Zbiory i przedziały",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "A &bsol; B = {1, 2}."
+},
+{
+"tresc":"Dane są zbiory A = {1, 2, 3, 4, 5} oraz B = {3, 4, 5, 6, 7, 8}. Wyznacz B &bsol; A. ",
+"temat":"Zbiory i przedziały",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "B &bsol; A = {6, 7, 8}."
+},
+{
+"tresc":"Dany jest zbiór A = {2, 4} w przestrzeni &#937; = {1, 2, 3, 4, 5, 6}. Wyznacz A'. ",
+"temat":"Zbiory i przedziały",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "A' = {1, 3, 5, 6}."
+},
+{
+"tresc":"Dane jest dopełnienie zbioru A' = {3, 4, 5, 6} w przestrzeni &#937; = {1, 2, 3, 4, 5, 6}. Wyznacz zbiór A. ",
+"temat":"Zbiory i przedziały",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "A = {1, 2}."
+},
+{
+"tresc":"Dany jest przedział A = [1; 3] oraz przedział B = (1; 6). Wyznacz przedział A &cap; B.",
+"temat":"Zbiory i przedziały",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "A &cap; B = (1; 3]"
+},
+{
+"tresc":"Dany jest przedział A = (-&infin;; 3] oraz przedział B = (-6; 6). Wyznacz przedział A &cup; B.",
+"temat":"Zbiory i przedziały",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "A &cup; B = (-&infin;; 6)."
+},
+{
+"tresc":"Dany jest przedział A = (-&infin;; 4] oraz przedział B = [0; 12). Wyznacz przedział A &bsol; B.",
+"temat":"Zbiory i przedziały",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "A &bsol; B = (-&infin;; 0)."
+},
+{
+"tresc":"Dany jest przedział A = (4; +&infin;) oraz przedział B = [-10; 0). Wyznacz przedział B &bsol; A.",
+"temat":"Zbiory i przedziały",
+"trudnosc":1,
+"czymat":0,
+"odpowiedz": "B &bsol; A = B = [-10; 0)."
+},
+{
+"tresc":"Dany jest zbiór A = {1, 2}. Wyznacz zbiór potęgowy zbioru A.",
+"temat":"Zbiory i przedziały",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "P(A) = {&#8709;, {1}, {2}, {1, 2}}."
+},
+{
+"tresc":"Dany jest zbiór A = {a}. Wyznacz zbiór potęgowy zbioru A.",
+"temat":"Zbiory i przedziały",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "P(A) = {&#8709;, {a}}."
+},
+{
+"tresc":"Niech A będzie zbiorem wszystkich trójkątów prostokątnych, a B zbiorem wszystkich trójkątów równoramiennych. Wówczas:<br>A. A &cap; B = &#8709;<br>B. A = B<br>C. B &bsol; A = &#8709;<br>D. Żadne z powyższych.  ",
+"temat":"Zbiory i przedziały",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Niech A będzie zbiorem wszystkich trójkątów równobocznych, a B zbiorem wszystkich trójkątów równoramiennych. Wówczas:<br>A. A &cap; B = &#8709;<br>B. A &sub; B<br>C. B &sub; A <br>D. Żadne z powyższych. ",
+"temat":"Zbiory i przedziały",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Dane są zbiory A = {1, 2} oraz B = {1, 2, 3, 4, 5} Wówczas:<br>A. A &cap; B = {1}<br>B. A &sub; B<br>C. B &sub; A <br>D. Żadne z powyższych. ",
+"temat":"Zbiory i przedziały",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. B."
+},
+{
+"tresc":"Dane są zbiory A = &#8477; oraz B = &#8469;. Wówczas:<br>A. A = B<br>B. A &sub; B<br>C. A &cup; B  = &#8469;<br>D. A &bsol; B =   &#8477;.",
+"temat":"Zbiory i przedziały",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. C."
+},
+{
+"tresc":"Dane są przedziały A = [-2; 4) oraz B = (-3; 4). Wówczas:<br>A. A &cap; B  = (-2; 4) <br>B. B &sub; A<br>C. A &cup; B  = [-3; 4)<br>D. B &bsol; A = (-3; -2).",
+"tresc":"Dane są przedziały A = [-2; 4) oraz B = (-3; 4). Wówczas:<br>A. A &cap; B  = (-2; 4) <br>B. B &sub; A<br>C. A &cup; B  = [-3; 4)<br>D. B &bsol; A = (-3; -2).",
+"temat":"Zbiory i przedziały",
+"trudnosc":2,
+"czymat":1,
+"odpowiedz": "Odp. D."
+},
+{
+"tresc":"Wypisz elementy zbioru A = {x &isin; &#8469;: x > 3 &and; x < 6}.",
+"temat":"Zbiory i przedziały",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "A = {4, 5}."
+},
+{
+"tresc":"Wypisz elementy zbioru A = {x &isin; &#8469;: x &ge; 1 &and; x < 5}.",
+"temat":"Zbiory i przedziały",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "A = {1, 2, 3, 4}."
+},
+{
+"tresc":"Oblicz moc zbioru potęgowego zbioru A = {a, b, c, d}.",
+"temat":"Zbiory i przedziały",
+"trudnosc":2,
+"czymat":0,
+"odpowiedz": "|P(A)| = 16."
+},
+{
+"tresc":"Dany jest zbiór A = {a, b, c}. Wyznacz zbiór potęgowy zbioru A.",
+"temat":"Zbiory i przedziały",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "P(A) = {&#8709;, {a}, {b}, {c}, {a, b}, {a, c}, {b, c}, {a, b, c}}."
+},
+{
+"tresc":"Dany jest przedział A = {x &isin; &#8477;: x &ge; 1 &and; x &le; 5} w przestrzeni &#937; = [-10; 10]. Wyznacz przedział A'.",
+"temat":"Zbiory i przedziały",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "A' = [-10; 1) &cup; (5; 10]."
+},
+{
+"tresc":"Dany jest zbiór A = {x &isin; &#8469;: x &ge; 0 &and; x &le; 4} w przestrzeni &#937; = {x &isin; &#8469;: x &ge; 0 &and; x &le; 10}. Wypisz elementy przedziału A'. ",
+"temat":"Zbiory i przedziały",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "A' = {5, 6, 7, 8, 9, 10}."
+},
+{
+"tresc":"Dany jest zbiór A = {x &isin; &#8450;: x > -3 &and; x &lt; 6 } w przestrzeni &#937; = {x &isin; &#8450;: x &ge; -10 &and; x &le; 10}. Wypisz elementy przedziału A'. ",
+"temat":"Zbiory i przedziały",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": " A' = {-10, -9, -8, -7, -6, -5, -4, -3, 6, 7, 8, 9, 10}."
+},
+{
+"tresc":"Dane są zbiory A = {3, 4, 5} oraz B = {1, 2} w przestrzeni &#937; = {1, 2, 3, 4, 5, 6, 7}. Wyznacz (A  &cup; B)' korzystając z prawa de'Morgana.",
+"temat":"Zbiory i przedziały",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "(A  &cup; B)' = {6, 7}."
+},
+{
+"tresc":"Dane są zbiory A = {2, 3, 4, 5} oraz B = {1, 2} w przestrzeni &#937; = {1, 2, 3, 4, 5, 6, 7}. Wyznacz (A  &cap; B)' korzystając z prawa de'Morgana.",
+"temat":"Zbiory i przedziały",
+"trudnosc":3,
+"czymat":0,
+"odpowiedz": "(A  &cap; B)' = {1, 3, 4, 5, 6, 7}."
+},
+{
+"tresc":"Niech zbiór A będzie zbiorem dzielników liczby 12, a zbiór B zbiorem dzielników liczby 16. Wyznacz:<br>a) A &cup; B<br>b) A &cap; B.",
+"temat":"Zbiory i przedziały",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a) A &cup; B = {1, 2, 3, 4, 8, 12, 16}<br>b) A &cap; B = {1, 2, 4}."
+},
+{
+"tresc":"Dane są trzy przedziały: A = [-1; 4], B = (-6; 6] i C = (0; 5). Wyznacz:<br>a) A &cup; B &cup; C<br>b) A &cap; B &cap; C.",
+"temat":"Zbiory i przedziały",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a) A &cup; B &cup; C = (-6; 6)<br>b) A &cap; B &cap; C = (0; 4]."
+},
+{
+"tresc":"Dane są trzy przedziały: A = [-3; 6], B = (-1; 5] i C = (3; 7). Wyznacz ile liczb całkowitych należy do przedziału:<br>a) A &cup; B &cup; C<br>b) A &cap; B &cap; C.",
+"temat":"Zbiory i przedziały",
+"trudnosc":3,
+"czymat":1,
+"odpowiedz": "a) 9 liczb<br>b) 2 liczby."
+}
+
+
+
+]
